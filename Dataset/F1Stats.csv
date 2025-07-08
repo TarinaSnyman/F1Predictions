@@ -12,13 +12,13 @@
 2020,ROLEX GROSSER PREIS VON ÖSTERREICH,Austria,Red Bull Ring,Nicholas Latifi,Williams Mercedes,20,11,1:09.662,223.146,19.488,71
 2020,ROLEX GROSSER PREIS VON ÖSTERREICH,Austria,Red Bull Ring,Daniil Kvyat,AlphaTauri Honda,13,12,1:09.135,224.847,19.656,69
 2020,ROLEX GROSSER PREIS VON ÖSTERREICH,Austria,Red Bull Ring,Alexander Albon,Red Bull Racing Honda,4,13,1:08.432,227.156,17.035,67
-2020,ROLEX GROSSER PREIS VON ÖSTERREICH,Austria,Red Bull Ring,Kimi Räikkönen,Alfa Romeo Racing Ferrari,19,NC,1:09.031,225.185,21.569,53
-2020,ROLEX GROSSER PREIS VON ÖSTERREICH,Austria,Red Bull Ring,George Russell,Williams Mercedes,17,NC,1:09.317,224.256,21.417,49
-2020,ROLEX GROSSER PREIS VON ÖSTERREICH,Austria,Red Bull Ring,Romain Grosjean,Haas Ferrari,15,NC,1:10.228,221.347,23.280,49
-2020,ROLEX GROSSER PREIS VON ÖSTERREICH,Austria,Red Bull Ring,Kevin Magnussen,Haas Ferrari,16,NC,1:10.720,219.807,,24
-2020,ROLEX GROSSER PREIS VON ÖSTERREICH,Austria,Red Bull Ring,Lance Stroll,Racing Point BWT Mercedes,9,NC,1:10.326,221.039,,20
-2020,ROLEX GROSSER PREIS VON ÖSTERREICH,Austria,Red Bull Ring,Daniel Ricciardo,Renault,10,NC,1:10.610,220.150,,17
-2020,ROLEX GROSSER PREIS VON ÖSTERREICH,Austria,Red Bull Ring,Max Verstappen,Red Bull Racing Honda,2,NC,1:09.351,224.146,,11
+2020,ROLEX GROSSER PREIS VON ÖSTERREICH,Austria,Red Bull Ring,Kimi Räikkönen,Alfa Romeo Racing Ferrari,19,,1:09.031,225.185,21.569,53
+2020,ROLEX GROSSER PREIS VON ÖSTERREICH,Austria,Red Bull Ring,George Russell,Williams Mercedes,17,,1:09.317,224.256,21.417,49
+2020,ROLEX GROSSER PREIS VON ÖSTERREICH,Austria,Red Bull Ring,Romain Grosjean,Haas Ferrari,15,,1:10.228,221.347,23.280,49
+2020,ROLEX GROSSER PREIS VON ÖSTERREICH,Austria,Red Bull Ring,Kevin Magnussen,Haas Ferrari,16,,1:10.720,219.807,,24
+2020,ROLEX GROSSER PREIS VON ÖSTERREICH,Austria,Red Bull Ring,Lance Stroll,Racing Point BWT Mercedes,9,,1:10.326,221.039,,20
+2020,ROLEX GROSSER PREIS VON ÖSTERREICH,Austria,Red Bull Ring,Daniel Ricciardo,Renault,10,,1:10.610,220.150,,17
+2020,ROLEX GROSSER PREIS VON ÖSTERREICH,Austria,Red Bull Ring,Max Verstappen,Red Bull Racing Honda,2,,1:09.351,224.146,,11
 2020,PIRELLI GROSSER PREIS DER STEIERMARK,Austria,Red Bull Ring,Lewis Hamilton,Mercedes,1,1,1:06.719,232.989,21.729,71
 2020,PIRELLI GROSSER PREIS DER STEIERMARK,Austria,Red Bull Ring,Valtteri Bottas,Mercedes,4,2,1:07.534,230.177,21.376,71
 2020,PIRELLI GROSSER PREIS DER STEIERMARK,Austria,Red Bull Ring,Max Verstappen,Red Bull Racing Honda,2,3,1:06.145,235.010,20.937,71
@@ -36,9 +36,9 @@
 2020,PIRELLI GROSSER PREIS DER STEIERMARK,Austria,Red Bull Ring,Pierre Gasly,AlphaTauri Honda,7,15,1:07.827,229.183,21.950,70
 2020,PIRELLI GROSSER PREIS DER STEIERMARK,Austria,Red Bull Ring,George Russell,Williams Mercedes,11,16,1:08.601,226.597,21.697,69
 2020,PIRELLI GROSSER PREIS DER STEIERMARK,Austria,Red Bull Ring,Nicholas Latifi,Williams Mercedes,18,17,1:08.806,225.922,22.745,69
-2020,PIRELLI GROSSER PREIS DER STEIERMARK,Austria,Red Bull Ring,Esteban Ocon,Renault,5,NC,1:09.321,224.243,,25
-2020,PIRELLI GROSSER PREIS DER STEIERMARK,Austria,Red Bull Ring,Charles Leclerc,Ferrari,14,NC,1:35.379,162.979,39.715,4
-2020,PIRELLI GROSSER PREIS DER STEIERMARK,Austria,Red Bull Ring,Sebastian Vettel,Ferrari,10,NC,,,,1
+2020,PIRELLI GROSSER PREIS DER STEIERMARK,Austria,Red Bull Ring,Esteban Ocon,Renault,5,,1:09.321,224.243,,25
+2020,PIRELLI GROSSER PREIS DER STEIERMARK,Austria,Red Bull Ring,Charles Leclerc,Ferrari,14,,1:35.379,162.979,39.715,4
+2020,PIRELLI GROSSER PREIS DER STEIERMARK,Austria,Red Bull Ring,Sebastian Vettel,Ferrari,10,,,,,1
 2020,ARAMCO MAGYAR NAGYDÍJ,Hungary,Hungaroring,Lewis Hamilton,Mercedes,1,1,1:16.627,205.823,22.264,70
 2020,ARAMCO MAGYAR NAGYDÍJ,Hungary,Hungaroring,Max Verstappen,Red Bull Racing Honda,7,2,1:19.184,199.176,21.268,70
 2020,ARAMCO MAGYAR NAGYDÍJ,Hungary,Hungaroring,Valtteri Bottas,Mercedes,2,3,1:17.665,203.072,21.572,70
@@ -58,7 +58,7 @@
 2020,ARAMCO MAGYAR NAGYDÍJ,Hungary,Hungaroring,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,19,17,1:20.096,196.908,21.831,69
 2020,ARAMCO MAGYAR NAGYDÍJ,Hungary,Hungaroring,George Russell,Williams Mercedes,12,18,1:19.984,197.184,21.184,69
 2020,ARAMCO MAGYAR NAGYDÍJ,Hungary,Hungaroring,Nicholas Latifi,Williams Mercedes,15,19,1:21.198,194.236,21.596,65
-2020,ARAMCO MAGYAR NAGYDÍJ,Hungary,Hungaroring,Pierre Gasly,AlphaTauri Honda,10,NC,1:23.939,187.893,22.740,15
+2020,ARAMCO MAGYAR NAGYDÍJ,Hungary,Hungaroring,Pierre Gasly,AlphaTauri Honda,10,,1:23.939,187.893,22.740,15
 2020,PIRELLI BRITISH GRAND PRIX,Great Britain,Silverstone,Lewis Hamilton,Mercedes,1,1,1:29.238,237.652,28.805,52
 2020,PIRELLI BRITISH GRAND PRIX,Great Britain,Silverstone,Max Verstappen,Red Bull Racing Honda,3,2,1:27.097,243.494,28.208,52
 2020,PIRELLI BRITISH GRAND PRIX,Great Britain,Silverstone,Charles Leclerc,Ferrari,4,3,1:29.813,236.130,29.520,52
@@ -76,9 +76,9 @@
 2020,PIRELLI BRITISH GRAND PRIX,Great Britain,Silverstone,Nicholas Latifi,Williams Mercedes,18,15,1:30.501,234.335,31.371,52
 2020,PIRELLI BRITISH GRAND PRIX,Great Britain,Silverstone,Romain Grosjean,Haas Ferrari,17,16,1:29.782,236.212,33.816,52
 2020,PIRELLI BRITISH GRAND PRIX,Great Britain,Silverstone,Kimi Räikkönen,Alfa Romeo Racing Ferrari,16,17,1:29.973,235.710,36.590,51
-2020,PIRELLI BRITISH GRAND PRIX,Great Britain,Silverstone,Daniil Kvyat,AlphaTauri Honda,19,NC,1:32.443,229.412,,11
-2020,PIRELLI BRITISH GRAND PRIX,Great Britain,Silverstone,Kevin Magnussen,Haas Ferrari,14,NC,,,,1
-2020,PIRELLI BRITISH GRAND PRIX,Great Britain,Silverstone,Nico Hulkenberg,Racing Point BWT Mercedes,13,NC,,,,0
+2020,PIRELLI BRITISH GRAND PRIX,Great Britain,Silverstone,Daniil Kvyat,AlphaTauri Honda,19,,1:32.443,229.412,,11
+2020,PIRELLI BRITISH GRAND PRIX,Great Britain,Silverstone,Kevin Magnussen,Haas Ferrari,14,,,,,1
+2020,PIRELLI BRITISH GRAND PRIX,Great Britain,Silverstone,Nico Hulkenberg,Racing Point BWT Mercedes,13,,,,,0
 2020,EMIRATES FORMULA 1 70TH ANNIVERSARY,Great Britain,Silverstone,Max Verstappen,Red Bull Racing Honda,4,1,1:29.465,237.049,28.986,52
 2020,EMIRATES FORMULA 1 70TH ANNIVERSARY,Great Britain,Silverstone,Lewis Hamilton,Mercedes,2,2,1:28.451,239.766,28.406,52
 2020,EMIRATES FORMULA 1 70TH ANNIVERSARY,Great Britain,Silverstone,Valtteri Bottas,Mercedes,1,3,1:29.765,236.256,28.188,52
@@ -98,7 +98,7 @@
 2020,EMIRATES FORMULA 1 70TH ANNIVERSARY,Great Britain,Silverstone,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,19,17,1:31.826,230.954,27.693,51
 2020,EMIRATES FORMULA 1 70TH ANNIVERSARY,Great Britain,Silverstone,George Russell,Williams Mercedes,15,18,1:31.408,232.010,28.331,51
 2020,EMIRATES FORMULA 1 70TH ANNIVERSARY,Great Britain,Silverstone,Nicholas Latifi,Williams Mercedes,18,19,1:29.950,235.770,28.086,51
-2020,EMIRATES FORMULA 1 70TH ANNIVERSARY,Great Britain,Silverstone,Kevin Magnussen,Haas Ferrari,17,NC,1:31.830,230.944,28.934,43
+2020,EMIRATES FORMULA 1 70TH ANNIVERSARY,Great Britain,Silverstone,Kevin Magnussen,Haas Ferrari,17,,1:31.830,230.944,28.934,43
 2020,ARAMCO GRAN PREMIO DE ESPAÑA,Spain,Circuit de Barcelona-Catalunya,Lewis Hamilton,Mercedes,1,1,1:19.822,209.942,21.853,66
 2020,ARAMCO GRAN PREMIO DE ESPAÑA,Spain,Circuit de Barcelona-Catalunya,Max Verstappen,Red Bull Racing Honda,3,2,1:21.477,205.677,21.532,66
 2020,ARAMCO GRAN PREMIO DE ESPAÑA,Spain,Circuit de Barcelona-Catalunya,Valtteri Bottas,Mercedes,2,3,1:18.183,214.343,22.143,66
@@ -118,27 +118,27 @@
 2020,ARAMCO GRAN PREMIO DE ESPAÑA,Spain,Circuit de Barcelona-Catalunya,George Russell,Williams Mercedes,18,17,1:22.503,203.119,21.889,65
 2020,ARAMCO GRAN PREMIO DE ESPAÑA,Spain,Circuit de Barcelona-Catalunya,Nicholas Latifi,Williams Mercedes,19,18,1:22.030,204.291,22.322,64
 2020,ARAMCO GRAN PREMIO DE ESPAÑA,Spain,Circuit de Barcelona-Catalunya,Romain Grosjean,Haas Ferrari,17,19,1:20.409,208.409,23.212,64
-2020,ARAMCO GRAN PREMIO DE ESPAÑA,Spain,Circuit de Barcelona-Catalunya,Charles Leclerc,Ferrari,9,NC,1:23.968,199.576,22.274,38
-2020,ROLEX BELGIAN GRAND PRIX,Belgium,Circuit de Spa-Francorchamps,Lewis Hamilton,Mercedes,1,1,1:47.758,233.990,23.298,44
-2020,ROLEX BELGIAN GRAND PRIX,Belgium,Circuit de Spa-Francorchamps,Valtteri Bottas,Mercedes,2,2,1:47.983,233.503,25.548,44
-2020,ROLEX BELGIAN GRAND PRIX,Belgium,Circuit de Spa-Francorchamps,Max Verstappen,Red Bull Racing Honda,3,3,1:48.305,232.809,23.314,44
-2020,ROLEX BELGIAN GRAND PRIX,Belgium,Circuit de Spa-Francorchamps,Daniel Ricciardo,Renault,4,4,1:47.483,234.589,23.586,44
-2020,ROLEX BELGIAN GRAND PRIX,Belgium,Circuit de Spa-Francorchamps,Esteban Ocon,Renault,6,5,1:48.540,232.305,24.305,44
-2020,ROLEX BELGIAN GRAND PRIX,Belgium,Circuit de Spa-Francorchamps,Alexander Albon,Red Bull Racing Honda,5,6,1:48.736,231.886,22.738,44
-2020,ROLEX BELGIAN GRAND PRIX,Belgium,Circuit de Spa-Francorchamps,Lando Norris,McLaren Renault,10,7,1:48.552,232.279,23.046,44
-2020,ROLEX BELGIAN GRAND PRIX,Belgium,Circuit de Spa-Francorchamps,Pierre Gasly,AlphaTauri Honda,12,8,1:47.839,233.815,22.681,44
-2020,ROLEX BELGIAN GRAND PRIX,Belgium,Circuit de Spa-Francorchamps,Lance Stroll,Racing Point BWT Mercedes,9,9,1:49.136,231.036,23.689,44
-2020,ROLEX BELGIAN GRAND PRIX,Belgium,Circuit de Spa-Francorchamps,Sergio Perez,Racing Point BWT Mercedes,8,10,1:48.389,232.628,23.175,44
-2020,ROLEX BELGIAN GRAND PRIX,Belgium,Circuit de Spa-Francorchamps,Daniil Kvyat,AlphaTauri Honda,11,11,1:49.832,229.572,23.769,44
-2020,ROLEX BELGIAN GRAND PRIX,Belgium,Circuit de Spa-Francorchamps,Kimi Räikkönen,Alfa Romeo Racing Ferrari,16,12,1:49.822,229.593,22.960,44
-2020,ROLEX BELGIAN GRAND PRIX,Belgium,Circuit de Spa-Francorchamps,Sebastian Vettel,Ferrari,14,13,1:49.958,229.309,22.982,44
-2020,ROLEX BELGIAN GRAND PRIX,Belgium,Circuit de Spa-Francorchamps,Charles Leclerc,Ferrari,13,14,1:47.840,233.813,25.100,44
-2020,ROLEX BELGIAN GRAND PRIX,Belgium,Circuit de Spa-Francorchamps,Romain Grosjean,Haas Ferrari,17,15,1:50.018,229.184,23.636,44
-2020,ROLEX BELGIAN GRAND PRIX,Belgium,Circuit de Spa-Francorchamps,Nicholas Latifi,Williams Mercedes,19,16,1:48.048,233.362,23.477,44
-2020,ROLEX BELGIAN GRAND PRIX,Belgium,Circuit de Spa-Francorchamps,Kevin Magnussen,Haas Ferrari,20,17,1:48.083,233.287,24.339,44
-2020,ROLEX BELGIAN GRAND PRIX,Belgium,Circuit de Spa-Francorchamps,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,18,NC,1:51.793,225.545,,9
-2020,ROLEX BELGIAN GRAND PRIX,Belgium,Circuit de Spa-Francorchamps,George Russell,Williams Mercedes,15,NC,1:51.754,225.624,,9
-2020,ROLEX BELGIAN GRAND PRIX,Belgium,Circuit de Spa-Francorchamps,Carlos Sainz,McLaren Renault,7,NC,,,,0
+2020,ARAMCO GRAN PREMIO DE ESPAÑA,Spain,Circuit de Barcelona-Catalunya,Charles Leclerc,Ferrari,9,,1:23.968,199.576,22.274,38
+2020,ROLEX BELGIAN GRAND PRIX,Belgium,Circuit de Spa-Fraorchamps,Lewis Hamilton,Mercedes,1,1,1:47.758,233.990,23.298,44
+2020,ROLEX BELGIAN GRAND PRIX,Belgium,Circuit de Spa-Fraorchamps,Valtteri Bottas,Mercedes,2,2,1:47.983,233.503,25.548,44
+2020,ROLEX BELGIAN GRAND PRIX,Belgium,Circuit de Spa-Fraorchamps,Max Verstappen,Red Bull Racing Honda,3,3,1:48.305,232.809,23.314,44
+2020,ROLEX BELGIAN GRAND PRIX,Belgium,Circuit de Spa-Fraorchamps,Daniel Ricciardo,Renault,4,4,1:47.483,234.589,23.586,44
+2020,ROLEX BELGIAN GRAND PRIX,Belgium,Circuit de Spa-Fraorchamps,Esteban Ocon,Renault,6,5,1:48.540,232.305,24.305,44
+2020,ROLEX BELGIAN GRAND PRIX,Belgium,Circuit de Spa-Fraorchamps,Alexander Albon,Red Bull Racing Honda,5,6,1:48.736,231.886,22.738,44
+2020,ROLEX BELGIAN GRAND PRIX,Belgium,Circuit de Spa-Fraorchamps,Lando Norris,McLaren Renault,10,7,1:48.552,232.279,23.046,44
+2020,ROLEX BELGIAN GRAND PRIX,Belgium,Circuit de Spa-Fraorchamps,Pierre Gasly,AlphaTauri Honda,12,8,1:47.839,233.815,22.681,44
+2020,ROLEX BELGIAN GRAND PRIX,Belgium,Circuit de Spa-Fraorchamps,Lance Stroll,Racing Point BWT Mercedes,9,9,1:49.136,231.036,23.689,44
+2020,ROLEX BELGIAN GRAND PRIX,Belgium,Circuit de Spa-Fraorchamps,Sergio Perez,Racing Point BWT Mercedes,8,10,1:48.389,232.628,23.175,44
+2020,ROLEX BELGIAN GRAND PRIX,Belgium,Circuit de Spa-Fraorchamps,Daniil Kvyat,AlphaTauri Honda,11,11,1:49.832,229.572,23.769,44
+2020,ROLEX BELGIAN GRAND PRIX,Belgium,Circuit de Spa-Fraorchamps,Kimi Räikkönen,Alfa Romeo Racing Ferrari,16,12,1:49.822,229.593,22.960,44
+2020,ROLEX BELGIAN GRAND PRIX,Belgium,Circuit de Spa-Fraorchamps,Sebastian Vettel,Ferrari,14,13,1:49.958,229.309,22.982,44
+2020,ROLEX BELGIAN GRAND PRIX,Belgium,Circuit de Spa-Fraorchamps,Charles Leclerc,Ferrari,13,14,1:47.840,233.813,25.100,44
+2020,ROLEX BELGIAN GRAND PRIX,Belgium,Circuit de Spa-Fraorchamps,Romain Grosjean,Haas Ferrari,17,15,1:50.018,229.184,23.636,44
+2020,ROLEX BELGIAN GRAND PRIX,Belgium,Circuit de Spa-Fraorchamps,Nicholas Latifi,Williams Mercedes,19,16,1:48.048,233.362,23.477,44
+2020,ROLEX BELGIAN GRAND PRIX,Belgium,Circuit de Spa-Fraorchamps,Kevin Magnussen,Haas Ferrari,20,17,1:48.083,233.287,24.339,44
+2020,ROLEX BELGIAN GRAND PRIX,Belgium,Circuit de Spa-Fraorchamps,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,18,,1:51.793,225.545,,9
+2020,ROLEX BELGIAN GRAND PRIX,Belgium,Circuit de Spa-Fraorchamps,George Russell,Williams Mercedes,15,,1:51.754,225.624,,9
+2020,ROLEX BELGIAN GRAND PRIX,Belgium,Circuit de Spa-Fraorchamps,Carlos Sainz,McLaren Renault,7,,,,,0
 2020,GRAN PREMIO HEINEKEN D’ITALIA,Italy,Autodromo Nazionale Monza,Pierre Gasly,AlphaTauri Honda,10,1,1:24.037,248.162,24.096,53
 2020,GRAN PREMIO HEINEKEN D’ITALIA,Italy,Autodromo Nazionale Monza,Carlos Sainz,McLaren Renault,3,2,1:23.882,248.620,24.398,53
 2020,GRAN PREMIO HEINEKEN D’ITALIA,Italy,Autodromo Nazionale Monza,Lance Stroll,Racing Point BWT Mercedes,8,3,1:23.897,248.576,25.308,53
@@ -155,10 +155,10 @@
 2020,GRAN PREMIO HEINEKEN D’ITALIA,Italy,Autodromo Nazionale Monza,George Russell,Williams Mercedes,19,14,1:24.421,247.033,25.249,53
 2020,GRAN PREMIO HEINEKEN D’ITALIA,Italy,Autodromo Nazionale Monza,Alexander Albon,Red Bull Racing Honda,9,15,1:24.926,245.564,29.661,53
 2020,GRAN PREMIO HEINEKEN D’ITALIA,Italy,Autodromo Nazionale Monza,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,18,16,1:24.856,245.766,23.998,53
-2020,GRAN PREMIO HEINEKEN D’ITALIA,Italy,Autodromo Nazionale Monza,Max Verstappen,Red Bull Racing Honda,5,NC,1:25.539,243.804,26.149,30
-2020,GRAN PREMIO HEINEKEN D’ITALIA,Italy,Autodromo Nazionale Monza,Charles Leclerc,Ferrari,13,NC,1:26.026,242.424,24.344,23
-2020,GRAN PREMIO HEINEKEN D’ITALIA,Italy,Autodromo Nazionale Monza,Kevin Magnussen,Haas Ferrari,15,NC,1:25.787,243.099,40.078,17
-2020,GRAN PREMIO HEINEKEN D’ITALIA,Italy,Autodromo Nazionale Monza,Sebastian Vettel,Ferrari,17,NC,1:27.107,239.415,,6
+2020,GRAN PREMIO HEINEKEN D’ITALIA,Italy,Autodromo Nazionale Monza,Max Verstappen,Red Bull Racing Honda,5,,1:25.539,243.804,26.149,30
+2020,GRAN PREMIO HEINEKEN D’ITALIA,Italy,Autodromo Nazionale Monza,Charles Leclerc,Ferrari,13,,1:26.026,242.424,24.344,23
+2020,GRAN PREMIO HEINEKEN D’ITALIA,Italy,Autodromo Nazionale Monza,Kevin Magnussen,Haas Ferrari,15,,1:25.787,243.099,40.078,17
+2020,GRAN PREMIO HEINEKEN D’ITALIA,Italy,Autodromo Nazionale Monza,Sebastian Vettel,Ferrari,17,,1:27.107,239.415,,6
 2020,PIRELLI GRAN PREMIO DELLA TOSCANA FERRARI 1000,Italy,Mugello,Lewis Hamilton,Mercedes,1,1,1:18.833,239.518,17.536,59
 2020,PIRELLI GRAN PREMIO DELLA TOSCANA FERRARI 1001,Italy,Mugello,Valtteri Bottas,Mercedes,2,2,1:19.432,237.712,17.560,59
 2020,PIRELLI GRAN PREMIO DELLA TOSCANA FERRARI 1002,Italy,Mugello,Alexander Albon,Red Bull Racing Honda,4,3,1:20.039,235.909,17.591,59
@@ -171,14 +171,14 @@
 2020,PIRELLI GRAN PREMIO DELLA TOSCANA FERRARI 1009,Italy,Mugello,Sebastian Vettel,Ferrari,14,10,1:21.202,232.531,17.516,59
 2020,PIRELLI GRAN PREMIO DELLA TOSCANA FERRARI 1010,Italy,Mugello,George Russell,Williams Mercedes,18,11,1:21.645,231.269,18.399,59
 2020,PIRELLI GRAN PREMIO DELLA TOSCANA FERRARI 1011,Italy,Mugello,Romain Grosjean,Haas Ferrari,15,12,1:22.263,229.532,23.720,59
-2020,PIRELLI GRAN PREMIO DELLA TOSCANA FERRARI 1012,Italy,Mugello,Lance Stroll,Racing Point BWT Mercedes,6,NC,1:22.068,230.077,17.625,42
-2020,PIRELLI GRAN PREMIO DELLA TOSCANA FERRARI 1013,Italy,Mugello,Esteban Ocon,Renault,10,NC,2:11.793,143.270,17.455,7
-2020,PIRELLI GRAN PREMIO DELLA TOSCANA FERRARI 1014,Italy,Mugello,Nicholas Latifi,Williams Mercedes,19,NC,2:11.365,143.736,,6
-2020,PIRELLI GRAN PREMIO DELLA TOSCANA FERRARI 1015,Italy,Mugello,Kevin Magnussen,Haas Ferrari,20,NC,2:13.812,141.108,,5
-2020,PIRELLI GRAN PREMIO DELLA TOSCANA FERRARI 1016,Italy,Mugello,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,17,NC,2:13.809,141.111,,5
-2020,PIRELLI GRAN PREMIO DELLA TOSCANA FERRARI 1017,Italy,Mugello,Carlos Sainz,McLaren Renault,9,NC,2:14.103,140.802,,5
-2020,PIRELLI GRAN PREMIO DELLA TOSCANA FERRARI 1018,Italy,Mugello,Max Verstappen,Red Bull Racing Honda,3,NC,,,,0
-2020,PIRELLI GRAN PREMIO DELLA TOSCANA FERRARI 1019,Italy,Mugello,Pierre Gasly,AlphaTauri Honda,16,NC,,,,0
+2020,PIRELLI GRAN PREMIO DELLA TOSCANA FERRARI 1012,Italy,Mugello,Lance Stroll,Racing Point BWT Mercedes,6,,1:22.068,230.077,17.625,42
+2020,PIRELLI GRAN PREMIO DELLA TOSCANA FERRARI 1013,Italy,Mugello,Esteban Ocon,Renault,10,,2:11.793,143.270,17.455,7
+2020,PIRELLI GRAN PREMIO DELLA TOSCANA FERRARI 1014,Italy,Mugello,Nicholas Latifi,Williams Mercedes,19,,2:11.365,143.736,,6
+2020,PIRELLI GRAN PREMIO DELLA TOSCANA FERRARI 1015,Italy,Mugello,Kevin Magnussen,Haas Ferrari,20,,2:13.812,141.108,,5
+2020,PIRELLI GRAN PREMIO DELLA TOSCANA FERRARI 1016,Italy,Mugello,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,17,,2:13.809,141.111,,5
+2020,PIRELLI GRAN PREMIO DELLA TOSCANA FERRARI 1017,Italy,Mugello,Carlos Sainz,McLaren Renault,9,,2:14.103,140.802,,5
+2020,PIRELLI GRAN PREMIO DELLA TOSCANA FERRARI 1018,Italy,Mugello,Max Verstappen,Red Bull Racing Honda,3,,,,,0
+2020,PIRELLI GRAN PREMIO DELLA TOSCANA FERRARI 1019,Italy,Mugello,Pierre Gasly,AlphaTauri Honda,16,,,,,0
 2020,VTB RUSSIAN GRAND PRIX,Russia,Sochi Autodrom,Valtteri Bottas,Mercedes,3,1,1:37.030,216.972,29.750,53
 2020,VTB RUSSIAN GRAND PRIX,Russia,Sochi Autodrom,Max Verstappen,Red Bull Racing Honda,2,2,1:37.332,216.298,28.748,53
 2020,VTB RUSSIAN GRAND PRIX,Russia,Sochi Autodrom,Lewis Hamilton,Mercedes,1,3,1:38.075,214.660,41.352,53
@@ -197,8 +197,8 @@
 2020,VTB RUSSIAN GRAND PRIX,Russia,Sochi Autodrom,Nicholas Latifi,Williams Mercedes,20,16,1:41.044,208.352,29.862,52
 2020,VTB RUSSIAN GRAND PRIX,Russia,Sochi Autodrom,Romain Grosjean,Haas Ferrari,16,17,1:39.614,211.343,29.988,52
 2020,VTB RUSSIAN GRAND PRIX,Russia,Sochi Autodrom,George Russell,Williams Mercedes,13,18,1:37.352,216.254,29.433,52
-2020,VTB RUSSIAN GRAND PRIX,Russia,Sochi Autodrom,Carlos Sainz,McLaren Renault,6,NC,,,,0
-2020,VTB RUSSIAN GRAND PRIX,Russia,Sochi Autodrom,Lance Stroll,Racing Point BWT Mercedes,12,NC,,,,0
+2020,VTB RUSSIAN GRAND PRIX,Russia,Sochi Autodrom,Carlos Sainz,McLaren Renault,6,,,,,0
+2020,VTB RUSSIAN GRAND PRIX,Russia,Sochi Autodrom,Lance Stroll,Racing Point BWT Mercedes,12,,,,,0
 2020,ARAMCO GROSSER PREIS DER EIFEL,Germany,Nürburgring,Lewis Hamilton,Mercedes,2,1,1:28.145,210.253,23.180,60
 2020,ARAMCO GROSSER PREIS DER EIFEL,Germany,Nürburgring,Max Verstappen,Red Bull Racing Honda,3,2,1:28.139,210.267,22.106,60
 2020,ARAMCO GROSSER PREIS DER EIFEL,Germany,Nürburgring,Daniel Ricciardo,Renault,6,3,1:29.584,206.876,22.159,60
@@ -214,11 +214,11 @@
 2020,ARAMCO GROSSER PREIS DER EIFEL,Germany,Nürburgring,Kevin Magnussen,Haas Ferrari,15,13,1:30.456,204.881,23.016,60
 2020,ARAMCO GROSSER PREIS DER EIFEL,Germany,Nürburgring,Nicholas Latifi,Williams Mercedes,18,14,1:31.377,202.816,24.063,60
 2020,ARAMCO GROSSER PREIS DER EIFEL,Germany,Nürburgring,Daniil Kvyat,AlphaTauri Honda,13,15,1:32.214,200.975,22.527,60
-2020,ARAMCO GROSSER PREIS DER EIFEL,Germany,Nürburgring,Lando Norris,McLaren Renault,8,NC,1:32.328,200.727,21.991,42
-2020,ARAMCO GROSSER PREIS DER EIFEL,Germany,Nürburgring,Alexander Albon,Red Bull Racing Honda,5,NC,1:32.330,200.723,23.562,23
-2020,ARAMCO GROSSER PREIS DER EIFEL,Germany,Nürburgring,Esteban Ocon,Renault,7,NC,1:33.189,198.873,,22
-2020,ARAMCO GROSSER PREIS DER EIFEL,Germany,Nürburgring,Valtteri Bottas,Mercedes,1,NC,1:31.884,201.697,22.625,18
-2020,ARAMCO GROSSER PREIS DER EIFEL,Germany,Nürburgring,George Russell,Williams Mercedes,17,NC,1:34.526,196.060,22.496,12
+2020,ARAMCO GROSSER PREIS DER EIFEL,Germany,Nürburgring,Lando Norris,McLaren Renault,8,,1:32.328,200.727,21.991,42
+2020,ARAMCO GROSSER PREIS DER EIFEL,Germany,Nürburgring,Alexander Albon,Red Bull Racing Honda,5,,1:32.330,200.723,23.562,23
+2020,ARAMCO GROSSER PREIS DER EIFEL,Germany,Nürburgring,Esteban Ocon,Renault,7,,1:33.189,198.873,,22
+2020,ARAMCO GROSSER PREIS DER EIFEL,Germany,Nürburgring,Valtteri Bottas,Mercedes,1,,1:31.884,201.697,22.625,18
+2020,ARAMCO GROSSER PREIS DER EIFEL,Germany,Nürburgring,George Russell,Williams Mercedes,17,,1:34.526,196.060,22.496,12
 2020,HEINEKEN GRANDE PRÉMIO DE PORTUGAL,Portugal,Autódromo Internacional do Algarve,Lewis Hamilton,Mercedes,1,1,1:18.750,212.708,27.162,66
 2020,HEINEKEN GRANDE PRÉMIO DE PORTUGAL,Portugal,Autódromo Internacional do Algarve,Valtteri Bottas,Mercedes,2,2,1:19.345,211.113,26.512,66
 2020,HEINEKEN GRANDE PRÉMIO DE PORTUGAL,Portugal,Autódromo Internacional do Algarve,Max Verstappen,Red Bull Racing Honda,3,3,1:19.854,209.767,26.394,66
@@ -238,7 +238,7 @@
 2020,HEINEKEN GRANDE PRÉMIO DE PORTUGAL,Portugal,Autódromo Internacional do Algarve,Romain Grosjean,Haas Ferrari,18,17,1:21.664,205.118,26.985,65
 2020,HEINEKEN GRANDE PRÉMIO DE PORTUGAL,Portugal,Autódromo Internacional do Algarve,Nicholas Latifi,Williams Mercedes,20,18,1:21.859,204.629,26.739,64
 2020,HEINEKEN GRANDE PRÉMIO DE PORTUGAL,Portugal,Autódromo Internacional do Algarve,Daniil Kvyat,AlphaTauri Honda,13,19,1:20.449,208.216,27.211,64
-2020,HEINEKEN GRANDE PRÉMIO DE PORTUGAL,Portugal,Autódromo Internacional do Algarve,Lance Stroll,Racing Point BWT Mercedes,12,NC,1:21.694,205.043,36.314,51
+2020,HEINEKEN GRANDE PRÉMIO DE PORTUGAL,Portugal,Autódromo Internacional do Algarve,Lance Stroll,Racing Point BWT Mercedes,12,,1:21.694,205.043,36.314,51
 2020,EMIRATES GRAN PREMIO DELL'EMILIA ROMAGNA,Italy,Autodromo Internazionale Enzo e Dino Ferrari,Lewis Hamilton,Mercedes,2,1,1:15.902,232.831,30.382,63
 2020,EMIRATES GRAN PREMIO DELL'EMILIA ROMAGNA,Italy,Autodromo Internazionale Enzo e Dino Ferrari,Valtteri Bottas,Mercedes,1,2,1:15.484,234.121,29.600,63
 2020,EMIRATES GRAN PREMIO DELL'EMILIA ROMAGNA,Italy,Autodromo Internazionale Enzo e Dino Ferrari,Daniel Ricciardo,Renault,5,3,1:17.552,227.878,30.204,63
@@ -254,11 +254,11 @@
 2020,EMIRATES GRAN PREMIO DELL'EMILIA ROMAGNA,Italy,Autodromo Internazionale Enzo e Dino Ferrari,Lance Stroll,Racing Point BWT Mercedes,15,13,1:18.360,225.528,30.566,63
 2020,EMIRATES GRAN PREMIO DELL'EMILIA ROMAGNA,Italy,Autodromo Internazionale Enzo e Dino Ferrari,Romain Grosjean,Haas Ferrari,16,14,1:18.822,224.206,30.422,63
 2020,EMIRATES GRAN PREMIO DELL'EMILIA ROMAGNA,Italy,Autodromo Internazionale Enzo e Dino Ferrari,Alexander Albon,Red Bull Racing Honda,6,15,1:16.177,231.991,29.552,63
-2020,EMIRATES GRAN PREMIO DELL'EMILIA ROMAGNA,Italy,Autodromo Internazionale Enzo e Dino Ferrari,George Russell,Williams Mercedes,13,NC,1:18.811,224.237,29.707,51
-2020,EMIRATES GRAN PREMIO DELL'EMILIA ROMAGNA,Italy,Autodromo Internazionale Enzo e Dino Ferrari,Max Verstappen,Red Bull Racing Honda,3,NC,1:17.637,227.628,29.427,50
-2020,EMIRATES GRAN PREMIO DELL'EMILIA ROMAGNA,Italy,Autodromo Internazionale Enzo e Dino Ferrari,Kevin Magnussen,Haas Ferrari,17,NC,1:19.273,222.930,30.708,47
-2020,EMIRATES GRAN PREMIO DELL'EMILIA ROMAGNA,Italy,Autodromo Internazionale Enzo e Dino Ferrari,Esteban Ocon,Renault,12,NC,1:19.606,221.998,30.559,27
-2020,EMIRATES GRAN PREMIO DELL'EMILIA ROMAGNA,Italy,Autodromo Internazionale Enzo e Dino Ferrari,Pierre Gasly,AlphaTauri Honda,4,NC,1:20.403,219.797,,8
+2020,EMIRATES GRAN PREMIO DELL'EMILIA ROMAGNA,Italy,Autodromo Internazionale Enzo e Dino Ferrari,George Russell,Williams Mercedes,13,,1:18.811,224.237,29.707,51
+2020,EMIRATES GRAN PREMIO DELL'EMILIA ROMAGNA,Italy,Autodromo Internazionale Enzo e Dino Ferrari,Max Verstappen,Red Bull Racing Honda,3,,1:17.637,227.628,29.427,50
+2020,EMIRATES GRAN PREMIO DELL'EMILIA ROMAGNA,Italy,Autodromo Internazionale Enzo e Dino Ferrari,Kevin Magnussen,Haas Ferrari,17,,1:19.273,222.930,30.708,47
+2020,EMIRATES GRAN PREMIO DELL'EMILIA ROMAGNA,Italy,Autodromo Internazionale Enzo e Dino Ferrari,Esteban Ocon,Renault,12,,1:19.606,221.998,30.559,27
+2020,EMIRATES GRAN PREMIO DELL'EMILIA ROMAGNA,Italy,Autodromo Internazionale Enzo e Dino Ferrari,Pierre Gasly,AlphaTauri Honda,4,,1:20.403,219.797,,8
 2020,DHL TURKISH GRAND PRIX,Turkey,Intercity Istanbul Park,Lewis Hamilton,Mercedes,6,1,1:39.413,193.302,23.860,58
 2020,DHL TURKISH GRAND PRIX,Turkey,Intercity Istanbul Park,Sergio Perez,Racing Point BWT Mercedes,3,2,1:40.392,191.417,25.163,58
 2020,DHL TURKISH GRAND PRIX,Turkey,Intercity Istanbul Park,Sebastian Vettel,Ferrari,11,3,1:39.662,192.819,24.022,58
@@ -276,9 +276,9 @@
 2020,DHL TURKISH GRAND PRIX,Turkey,Intercity Istanbul Park,Kimi Räikkönen,Alfa Romeo Racing Ferrari,8,15,1:39.743,192.663,23.180,57
 2020,DHL TURKISH GRAND PRIX,Turkey,Intercity Istanbul Park,George Russell,Williams Mercedes,20,16,1:40.814,190.616,22.692,57
 2020,DHL TURKISH GRAND PRIX,Turkey,Intercity Istanbul Park,Kevin Magnussen,Haas Ferrari,13,17,1:40.948,190.363,24.552,55
-2020,DHL TURKISH GRAND PRIX,Turkey,Intercity Istanbul Park,Romain Grosjean,Haas Ferrari,17,NC,1:43.281,186矫6.063,26.686,49
-2020,DHL TURKISH GRAND PRIX,Turkey,Intercity Istanbul Park,Nicholas Latifi,Williams Mercedes,18,NC,1:43.495,185.678,24.738,39
-2020,DHL TURKISH GRAND PRIX,Turkey,Intercity Istanbul Park,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,10,NC,1:51.122,172.934,25.432,11
+2020,DHL TURKISH GRAND PRIX,Turkey,Intercity Istanbul Park,Romain Grosjean,Haas Ferrari,17,,1:43.281,186矫6.063,26.686,49
+2020,DHL TURKISH GRAND PRIX,Turkey,Intercity Istanbul Park,Nicholas Latifi,Williams Mercedes,18,,1:43.495,185.678,24.738,39
+2020,DHL TURKISH GRAND PRIX,Turkey,Intercity Istanbul Park,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,10,,1:51.122,172.934,25.432,11
 2020,GULF AIR BAHRAIN GRAND PRIX,Bahrain,Bahrain International Circuit,Lewis Hamilton,Mercedes,1,1,1:32.864,209.803,24.061,57
 2020,GULF AIR BAHRAIN GRAND PRIX,Bahrain,Bahrain International Circuit,Max Verstappen,Red Bull Racing Honda,3,2,1:32.014,211.741,23.906,57
 2020,GULF AIR BAHRAIN GRAND PRIX,Bahrain,Bahrain International Circuit,Alexander Albon,Red Bull Racing Honda,4,3,1:33.684,207.967,23.848,57
@@ -297,8 +297,8 @@
 2020,GULF AIR BAHRAIN GRAND PRIX,Bahrain,Bahrain International Circuit,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,16,16,1:34.536,206.092,24.145,56
 2020,GULF AIR BAHRAIN GRAND PRIX,Bahrain,Bahrain International Circuit,Kevin Magnussen,Haas Ferrari,18,17,1:35.241,204.567,25.793,56
 2020,GULF AIR BAHRAIN GRAND PRIX,Bahrain,Bahrain International Circuit,Sergio Perez,Racing Point BWT Mercedes,5,18,1:33.629,208.089,24.317,53
-2020,GULF AIR BAHRAIN GRAND PRIX,Bahrain,Bahrain International Circuit,Lance Stroll,Racing Point BWT Mercedes,13,NC,,,,2
-2020,GULF AIR BAHRAIN GRAND PRIX,Bahrain,Bahrain International Circuit,Romain Grosjean,Haas Ferrari,19,NC,,,,0
+2020,GULF AIR BAHRAIN GRAND PRIX,Bahrain,Bahrain International Circuit,Lance Stroll,Racing Point BWT Mercedes,13,,,,,2
+2020,GULF AIR BAHRAIN GRAND PRIX,Bahrain,Bahrain International Circuit,Romain Grosjean,Haas Ferrari,19,,,,,0
 2020,ROLEX SAKHIR GRAND PRIX,Bahrain,Bahrain International Circuit – Outer Track,Sergio Perez,Racing Point BWT Mercedes,5,1,56.789,224.599,24.214,87
 2020,ROLEX SAKHIR GRAND PRIX,Bahrain,Bahrain International Circuit – Outer Track,Esteban Ocon,Renault,11,2,57.350,222.402,24.414,87
 2020,ROLEX SAKHIR GRAND PRIX,Bahrain,Bahrain International Circuit – Outer Track,Lance Stroll,Racing Point BWT Mercedes,10,3,57.388,222.255,24.684,87
@@ -316,9 +316,9 @@
 2020,ROLEX SAKHIR GRAND PRIX,Bahrain,Bahrain International Circuit – Outer Track,Kevin Magnussen,Haas Ferrari,15,15,57.516,221.760,25.466,87
 2020,ROLEX SAKHIR GRAND PRIX,Bahrain,Bahrain International Circuit – Outer Track,Jack Aitken,Williams Mercedes,17,16,57.392,222.240,24.863,87
 2020,ROLEX SAKHIR GRAND PRIX,Bahrain,Bahrain International Circuit – Outer Track,Pietro Fittipaldi,Haas Ferrari,20,17,57.742,220.892,25.780,87
-2020,ROLEX SAKHIR GRAND PRIX,Bahrain,Bahrain International Circuit – Outer Track,Nicholas Latifi,Williams Mercedes,16,NC,58.206,219.132,24.297,52
-2020,ROLEX SAKHIR GRAND PRIX,Bahrain,Bahrain International Circuit – Outer Track,Max Verstappen,Red Bull Racing Honda,3,NC,,,,0
-2020,ROLEX SAKHIR GRAND PRIX,Bahrain,Bahrain International Circuit – Outer Track,Charles Leclerc,Ferrari,4,NC,,,,0
+2020,ROLEX SAKHIR GRAND PRIX,Bahrain,Bahrain International Circuit – Outer Track,Nicholas Latifi,Williams Mercedes,16,,58.206,219.132,24.297,52
+2020,ROLEX SAKHIR GRAND PRIX,Bahrain,Bahrain International Circuit – Outer Track,Max Verstappen,Red Bull Racing Honda,3,,,,,0
+2020,ROLEX SAKHIR GRAND PRIX,Bahrain,Bahrain International Circuit – Outer Track,Charles Leclerc,Ferrari,4,,,,,0
 2020,ETIHAD AIRWAYS ABU DHABI GRAND PRIX,UAE,Yas Marina Circuit,Max Verstappen,Red Bull Racing Honda,1,1,1:40.958,198.046,21.289,55
 2020,ETIHAD AIRWAYS ABU DHABI GRAND PRIX,UAE,Yas Marina Circuit,Valtteri Bottas,Mercedes,2,2,1:41.131,197.707,21.587,55
 2020,ETIHAD AIRWAYS ABU DHABI GRAND PRIX,UAE,Yas Marina Circuit,Lewis Hamilton,Mercedes,3,3,1:41.420,197.144,22.406,55
@@ -338,7 +338,7 @@
 2020,ETIHAD AIRWAYS ABU DHABI GRAND PRIX,UAE,Yas Marina Circuit,Nicholas Latifi,Williams Mercedes,18,17,1:42.497,195.073,21.357,54
 2020,ETIHAD AIRWAYS ABU DHABI GRAND PRIX,UAE,Yas Marina Circuit,Kevin Magnussen,Haas Ferrari,20,18,1:41.999,196.025,22.714,54
 2020,ETIHAD AIRWAYS ABU DHABI GRAND PRIX,UAE,Yas Marina Circuit,Pietro Fittipaldi,Haas Ferrari,17,19,1:41.707,196.588,23.217,53
-2020,ETIHAD AIRWAYS ABU DHABI GRAND PRIX,UAE,Yas Marina Circuit,Sergio Perez,Racing Point BWT Mercedes,19,NC,1:43.263,193.625,,8
+2020,ETIHAD AIRWAYS ABU DHABI GRAND PRIX,UAE,Yas Marina Circuit,Sergio Perez,Racing Point BWT Mercedes,19,,1:43.263,193.625,,8
 2021,GULF AIR BAHRAIN GRAND PRIX,Bahrain,Bahrain International Circuit,Lewis Hamilton,Mercedes,2,1,1:34.015,207.235,24.076,56
 2021,GULF AIR BAHRAIN GRAND PRIX,Bahrain,Bahrain International Circuit,Max Verstappen,Red Bull Racing Honda,1,2,1:33.228,208.984,23.848,56
 2021,GULF AIR BAHRAIN GRAND PRIX,Bahrain,Bahrain International Circuit,Valtteri Bottas,Mercedes,3,3,1:32.090,211.566,24.262,56
@@ -357,8 +357,8 @@
 2021,GULF AIR BAHRAIN GRAND PRIX,Bahrain,Bahrain International Circuit,Mick Schumacher,Haas Ferrari,18,16,1:36.134,202.667,25.343,55
 2021,GULF AIR BAHRAIN GRAND PRIX,Bahrain,Bahrain International Circuit,Pierre Gasly,AlphaTauri Honda,5,17,1:34.090,207.069,24.317,52
 2021,GULF AIR BAHRAIN GRAND PRIX,Bahrain,Bahrain International Circuit,Nicholas Latifi,Williams Mercedes,17,18,1:36.602,201.685,23.983,51
-2021,GULF AIR BAHRAIN GRAND PRIX,Bahrain,Bahrain International Circuit,Fernando Alonso,Alpine Renault,9,NC,1:36.063,202.816,24.373,32
-2021,GULF AIR BAHRAIN GRAND PRIX,Bahrain,Bahrain International Circuit,Nikita Mazepin,Haas Ferrari,19,NC,,,,0
+2021,GULF AIR BAHRAIN GRAND PRIX,Bahrain,Bahrain International Circuit,Fernando Alonso,Alpine Renault,9,,1:36.063,202.816,24.373,32
+2021,GULF AIR BAHRAIN GRAND PRIX,Bahrain,Bahrain International Circuit,Nikita Mazepin,Haas Ferrari,19,,,,,0
 2021,PIRELLI GRAN PREMIO DEL MADE IN ITALY E DELL'EMILIA ROMAGNA,Italy,Autodromo Internazionale Enzo e Dino Ferrari,Max Verstappen,Red Bull Racing Honda,3,1,1:17.524,227.960,29.809,63
 2021,PIRELLI GRAN PREMIO DEL MADE IN ITALY E DELL'EMILIA ROMAGNA,Italy,Autodromo Internazionale Enzo e Dino Ferrari,Lewis Hamilton,Mercedes,1,2,1:16.702,230.403,24.731,63
 2021,PIRELLI GRAN PREMIO DEL MADE IN ITALY E DELL'EMILIA ROMAGNA,Italy,Autodromo Internazionale Enzo e Dino Ferrari,Lando Norris,McLaren Mercedes,7,3,1:18.259,225.819,26.240,63
@@ -376,9 +376,9 @@
 2021,PIRELLI GRAN PREMIO DEL MADE IN ITALY E DELL'EMILIA ROMAGNA,Italy,Autodromo Internazionale Enzo e Dino Ferrari,Sebastian Vettel,Aston Martin Mercedes,13,15,1:19.074,223.491,24.123,61
 2021,PIRELLI GRAN PREMIO DEL MADE IN ITALY E DELL'EMILIA ROMAGNA,Italy,Autodromo Internazionale Enzo e Dino Ferrari,Mick Schumacher,Haas Ferrari,18,16,1:19.193,223.156,25.214,61
 2021,PIRELLI GRAN PREMIO DEL MADE IN ITALY E DELL'EMILIA ROMAGNA,Italy,Autodromo Internazionale Enzo e Dino Ferrari,Nikita Mazepin,Haas Ferrari,19,17,1:20.402,219.800,24.460,61
-2021,PIRELLI GRAN PREMIO DEL MADE IN ITALY E DELL'EMILIA ROMAGNA,Italy,Autodromo Internazionale Enzo e Dino Ferrari,Valtteri Bottas,Mercedes,8,NC,1:28.485,199.721,30.167,30
-2021,PIRELLI GRAN PREMIO DEL MADE IN ITALY E DELL'EMILIA ROMAGNA,Italy,Autodromo Internazionale Enzo e Dino Ferrari,George Russell,Williams Mercedes,12,NC,1:26.543,204.203,29.983,30
-2021,PIRELLI GRAN PREMIO DEL MADE IN ITALY E DELL'EMILIA ROMAGNA,Italy,Autodromo Internazionale Enzo e Dino Ferrari,Nicholas Latifi,Williams Mercedes,14,NC,,,,0
+2021,PIRELLI GRAN PREMIO DEL MADE IN ITALY E DELL'EMILIA ROMAGNA,Italy,Autodromo Internazionale Enzo e Dino Ferrari,Valtteri Bottas,Mercedes,8,,1:28.485,199.721,30.167,30
+2021,PIRELLI GRAN PREMIO DEL MADE IN ITALY E DELL'EMILIA ROMAGNA,Italy,Autodromo Internazionale Enzo e Dino Ferrari,George Russell,Williams Mercedes,12,,1:26.543,204.203,29.983,30
+2021,PIRELLI GRAN PREMIO DEL MADE IN ITALY E DELL'EMILIA ROMAGNA,Italy,Autodromo Internazionale Enzo e Dino Ferrari,Nicholas Latifi,Williams Mercedes,14,,,,,0
 2021,HEINEKEN GRANDE PRÉMIO DE PORTUGAL,Portugal,Autódromo Internacional do Algarve,Lewis Hamilton,Mercedes,2,1,1:20.933,206.971,22.164,66
 2021,HEINEKEN GRANDE PRÉMIO DE PORTUGAL,Portugal,Autódromo Internacional do Algarve,Max Verstappen,Red Bull Racing Honda,3,2,1:20.695,207.581,22.104,66
 2021,HEINEKEN GRANDE PRÉMIO DE PORTUGAL,Portugal,Autódromo Internacional do Algarve,Valtteri Bottas,Mercedes,1,3,1:19.865,209.738,21.377,66
@@ -398,7 +398,7 @@
 2021,HEINEKEN GRANDE PRÉMIO DE PORTUGAL,Portugal,Autódromo Internacional do Algarve,Mick Schumacher,Haas Ferrari,19,17,1:22.755,202.414,21.454,64
 2021,HEINEKEN GRANDE PRÉMIO DE PORTUGAL,Portugal,Autódromo Internacional do Algarve,Nicholas Latifi,Williams Mercedes,18,18,1:23.155,201.440,21.730,64
 2021,HEINEKEN GRANDE PRÉMIO DE PORTUGAL,Portugal,Autódromo Internacional do Algarve,Nikita Mazepin,Haas Ferrari,20,19,1:23.641,200.270,21.372,64
-2021,HEINEKEN GRANDE PRÉMIO DE PORTUGAL,Portugal,Autódromo Internacional do Algarve,Kimi Räikkönen,Alfa Romeo Racing Ferrari,15,NC,,,,1
+2021,HEINEKEN GRANDE PRÉMIO DE PORTUGAL,Portugal,Autódromo Internacional do Algarve,Kimi Räikkönen,Alfa Romeo Racing Ferrari,15,,,,,1
 2021,ARAMCO GRAN PREMIO DE ESPAÑA,Spain,Circuit de Barcelona-Catalunya,Lewis Hamilton,Mercedes,1,1,1:20.665,208.640,22.078,66
 2021,ARAMCO GRAN PREMIO DE ESPAÑA,Spain,Circuit de Barcelona-Catalunya,Max Verstappen,Red Bull Racing Honda,2,2,1:18.149,215.357,21.592,66
 2021,ARAMCO GRAN PREMIO DE ESPAÑA,Spain,Circuit de Barcelona-Catalunya,Valtteri Bottas,Mercedes,3,3,1:19.430,211.884,21.638,66
@@ -418,7 +418,7 @@
 2021,ARAMCO GRAN PREMIO DE ESPAÑA,Spain,Circuit de Barcelona-Catalunya,Fernando Alonso,Alpine Renault,10,17,1:21.182,207.311,22.043,65
 2021,ARAMCO GRAN PREMIO DE ESPAÑA,Spain,Circuit de Barcelona-Catalunya,Mick Schumacher,Haas Ferrari,18,18,1:22.637,203.661,22.310,64
 2021,ARAMCO GRAN PREMIO DE ESPAÑA,Spain,Circuit de Barcelona-Catalunya,Nikita Mazepin,Haas Ferrari,20,19,1:24.040,200.261,22.502,64
-2021,ARAMCO GRAN PREMIO DE ESPAÑA,Spain,Circuit de Barcelona-Catalunya,Yuki Tsunoda,AlphaTauri Honda,16,NC,1:24.825,198.408,,6
+2021,ARAMCO GRAN PREMIO DE ESPAÑA,Spain,Circuit de Barcelona-Catalunya,Yuki Tsunoda,AlphaTauri Honda,16,,1:24.825,198.408,,6
 2021, GRAND PRIX DE MONACO,Monaco,Circuit de Monaco,Max Verstappen,Red Bull Racing Honda,2,1,1:14.649,160.929,23.746,78
 2021, GRAND PRIX DE MONACO,Monaco,Circuit de Monaco,Carlos Sainz,Ferrari,4,2,1:14.621,160.989,24.150,78
 2021, GRAND PRIX DE MONACO,Monaco,Circuit de Monaco,Lando Norris,McLaren Mercedes,5,3,1:14.670,160.883,23.874,78
@@ -437,8 +437,8 @@
 2021, GRAND PRIX DE MONACO,Monaco,Circuit de Monaco,Yuki Tsunoda,AlphaTauri Honda,16,16,1:14.037,162.259,24.430,77
 2021, GRAND PRIX DE MONACO,Monaco,Circuit de Monaco,Nikita Mazepin,Haas Ferrari,19,17,1:16.866,156.287,25.202,75
 2021, GRAND PRIX DE MONACO,Monaco,Circuit de Monaco,Mick Schumacher,Haas Ferrari,20,18,1:16.425,157.189,24.797,75
-2021, GRAND PRIX DE MONACO,Monaco,Circuit de Monaco,Valtteri Bottas,Mercedes,3,NC,1:15.706,158.682,,29
-2021, GRAND PRIX DE MONACO,Monaco,Circuit de Monaco,Charles Leclerc,Ferrari,1,NC,,,,0
+2021, GRAND PRIX DE MONACO,Monaco,Circuit de Monaco,Valtteri Bottas,Mercedes,3,,1:15.706,158.682,,29
+2021, GRAND PRIX DE MONACO,Monaco,Circuit de Monaco,Charles Leclerc,Ferrari,1,,,,,0
 2021,AZERBAIJAN GRAND PRIX,Azerbaijan,Baku City Circuit,Sergio Perez,Red Bull Racing Honda,6,1,1:44.687,206.432,15.277,51
 2021,AZERBAIJAN GRAND PRIX,Azerbaijan,Baku City Circuit,Sebastian Vettel,Aston Martin Mercedes,11,2,1:44.890,206.032,14.945,51
 2021,AZERBAIJAN GRAND PRIX,Azerbaijan,Baku City Circuit,Pierre Gasly,AlphaTauri Honda,4,3,1:45.220,205.386,15.085,51
@@ -457,28 +457,28 @@
 2021,AZERBAIJAN GRAND PRIX,Azerbaijan,Baku City Circuit,Nicholas Latifi,Williams Mercedes,16,16,1:46.608,202.712,null,51
 2021,AZERBAIJAN GRAND PRIX,Azerbaijan,Baku City Circuit,George Russell,Williams Mercedes,15,17,1:45.959,203.954,19.970,48
 2021,AZERBAIJAN GRAND PRIX,Azerbaijan,Baku City Circuit,Max Verstappen,Red Bull Racing Honda,3,18,1:44.481,206.839,19.769,45
-2021,AZERBAIJAN GRAND PRIX,Azerbaijan,Baku City Circuit,Lance Stroll,Aston Martin Mercedes,19,NC,1:46.207,203.478,,29
-2021,AZERBAIJAN GRAND PRIX,Azerbaijan,Baku City Circuit,Esteban Ocon,Alpine Renault,12,NC,1:50.850,194.955,,3
-2021,EMIRATES GRAND PRIX DE FRANCE,France,Circuit Paul Ricard,Max Verstappen,Red Bull Racing Honda,1,1,1:36.404,218.156,29.803,53
-2021,EMIRATES GRAND PRIX DE FRANCE,France,Circuit Paul Ricard,Lewis Hamilton,Mercedes,2,2,1:37.410,215.903,30.263,53
-2021,EMIRATES GRAND PRIX DE FRANCE,France,Circuit Paul Ricard,Sergio Perez,Red Bull Racing Honda,4,3,1:36.693,217.504,29.682,53
-2021,EMIRATES GRAND PRIX DE FRANCE,France,Circuit Paul Ricard,Valtteri Bottas,Mercedes,3,4,1:36.960,216.905,30.572,53
-2021,EMIRATES GRAND PRIX DE FRANCE,France,Circuit Paul Ricard,Lando Norris,McLaren Mercedes,8,5,1:37.425,215.870,30.531,53
-2021,EMIRATES GRAND PRIX DE FRANCE,France,Circuit Paul Ricard,Daniel Ricciardo,McLaren Mercedes,10,6,1:38.324,213.896,29.951,53
-2021,EMIRATES GRAND PRIX DE FRANCE,France,Circuit Paul Ricard,Pierre Gasly,AlphaTauri Honda,6,7,1:38.103,214.378,30.781,53
-2021,EMIRATES GRAND PRIX DE FRANCE,France,Circuit Paul Ricard,Fernando Alonso,Alpine Renault,9,8,1:37.646,215.382,31.288,53
-2021,EMIRATES GRAND PRIX DE FRANCE,France,Circuit Paul Ricard,Sebastian Vettel,Aston Martin Mercedes,12,9,1:37.138,216.508,31.069,53
-2021,EMIRATES GRAND PRIX DE FRANCE,France,Circuit Paul Ricard,Lance Stroll,Aston Martin Mercedes,19,10,1:37.828,214.981,30.996,53
-2021,EMIRATES GRAND PRIX DE FRANCE,France,Circuit Paul Ricard,Carlos Sainz,Ferrari,5,11,1:38.931,212.584,30.534,53
-2021,EMIRATES GRAND PRIX DE FRANCE,France,Circuit Paul Ricard,George Russell,Williams Mercedes,14,12,1:38.314,213.918,30.092,52
-2021,EMIRATES GRAND PRIX DE FRANCE,France,Circuit Paul Ricard,Yuki Tsunoda,AlphaTauri Honda,20,13,1:38.980,212.479,30.226,52
-2021,EMIRATES GRAND PRIX DE FRANCE,France,Circuit Paul Ricard,Esteban Ocon,Alpine Renault,11,14,1:38.645,213.200,30.207,52
-2021,EMIRATES GRAND PRIX DE FRANCE,France,Circuit Paul Ricard,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,13,15,1:38.702,213.077,30.586,52
-2021,EMIRATES GRAND PRIX DE FRANCE,France,Circuit Paul Ricard,Charles Leclerc,Ferrari,7,16,1:37.681,215.304,30.798,52
-2021,EMIRATES GRAND PRIX DE FRANCE,France,Circuit Paul Ricard,Kimi Räikkönen,Alfa Romeo Racing Ferrari,17,17,1:37.992,214.621,31.327,52
-2021,EMIRATES GRAND PRIX DE FRANCE,France,Circuit Paul Ricard,Nicholas Latifi,Williams Mercedes,16,18,1:38.313,213.920,29.775,52
-2021,EMIRATES GRAND PRIX DE FRANCE,France,Circuit Paul Ricard,Mick Schumacher,Haas Ferrari,15,19,1:38.847,212.765,31.457,52
-2021,EMIRATES GRAND PRIX DE FRANCE,France,Circuit Paul Ricard,Nikita Mazepin,Haas Ferrari,18,20,1:39.317,211.758,30.983,52
+2021,AZERBAIJAN GRAND PRIX,Azerbaijan,Baku City Circuit,Lance Stroll,Aston Martin Mercedes,19,,1:46.207,203.478,,29
+2021,AZERBAIJAN GRAND PRIX,Azerbaijan,Baku City Circuit,Esteban Ocon,Alpine Renault,12,,1:50.850,194.955,,3
+2021,EMIRATES GRAND PRIX DE FRAE,Frae,Circuit Paul Ricard,Max Verstappen,Red Bull Racing Honda,1,1,1:36.404,218.156,29.803,53
+2021,EMIRATES GRAND PRIX DE FRAE,Frae,Circuit Paul Ricard,Lewis Hamilton,Mercedes,2,2,1:37.410,215.903,30.263,53
+2021,EMIRATES GRAND PRIX DE FRAE,Frae,Circuit Paul Ricard,Sergio Perez,Red Bull Racing Honda,4,3,1:36.693,217.504,29.682,53
+2021,EMIRATES GRAND PRIX DE FRAE,Frae,Circuit Paul Ricard,Valtteri Bottas,Mercedes,3,4,1:36.960,216.905,30.572,53
+2021,EMIRATES GRAND PRIX DE FRAE,Frae,Circuit Paul Ricard,Lando Norris,McLaren Mercedes,8,5,1:37.425,215.870,30.531,53
+2021,EMIRATES GRAND PRIX DE FRAE,Frae,Circuit Paul Ricard,Daniel Ricciardo,McLaren Mercedes,10,6,1:38.324,213.896,29.951,53
+2021,EMIRATES GRAND PRIX DE FRAE,Frae,Circuit Paul Ricard,Pierre Gasly,AlphaTauri Honda,6,7,1:38.103,214.378,30.781,53
+2021,EMIRATES GRAND PRIX DE FRAE,Frae,Circuit Paul Ricard,Fernando Alonso,Alpine Renault,9,8,1:37.646,215.382,31.288,53
+2021,EMIRATES GRAND PRIX DE FRAE,Frae,Circuit Paul Ricard,Sebastian Vettel,Aston Martin Mercedes,12,9,1:37.138,216.508,31.069,53
+2021,EMIRATES GRAND PRIX DE FRAE,Frae,Circuit Paul Ricard,Lance Stroll,Aston Martin Mercedes,19,10,1:37.828,214.981,30.996,53
+2021,EMIRATES GRAND PRIX DE FRAE,Frae,Circuit Paul Ricard,Carlos Sainz,Ferrari,5,11,1:38.931,212.584,30.534,53
+2021,EMIRATES GRAND PRIX DE FRAE,Frae,Circuit Paul Ricard,George Russell,Williams Mercedes,14,12,1:38.314,213.918,30.092,52
+2021,EMIRATES GRAND PRIX DE FRAE,Frae,Circuit Paul Ricard,Yuki Tsunoda,AlphaTauri Honda,20,13,1:38.980,212.479,30.226,52
+2021,EMIRATES GRAND PRIX DE FRAE,Frae,Circuit Paul Ricard,Esteban Ocon,Alpine Renault,11,14,1:38.645,213.200,30.207,52
+2021,EMIRATES GRAND PRIX DE FRAE,Frae,Circuit Paul Ricard,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,13,15,1:38.702,213.077,30.586,52
+2021,EMIRATES GRAND PRIX DE FRAE,Frae,Circuit Paul Ricard,Charles Leclerc,Ferrari,7,16,1:37.681,215.304,30.798,52
+2021,EMIRATES GRAND PRIX DE FRAE,Frae,Circuit Paul Ricard,Kimi Räikkönen,Alfa Romeo Racing Ferrari,17,17,1:37.992,214.621,31.327,52
+2021,EMIRATES GRAND PRIX DE FRAE,Frae,Circuit Paul Ricard,Nicholas Latifi,Williams Mercedes,16,18,1:38.313,213.920,29.775,52
+2021,EMIRATES GRAND PRIX DE FRAE,Frae,Circuit Paul Ricard,Mick Schumacher,Haas Ferrari,15,19,1:38.847,212.765,31.457,52
+2021,EMIRATES GRAND PRIX DE FRAE,Frae,Circuit Paul Ricard,Nikita Mazepin,Haas Ferrari,18,20,1:39.317,211.758,30.983,52
 2021,BWT GROSSER PREIS DER STEIERMARK,Austria,Red Bull Ring,Max Verstappen,Red Bull Racing Honda,1,1,1:08.017,228.542,20.936,71
 2021,BWT GROSSER PREIS DER STEIERMARK,Austria,Red Bull Ring,Lewis Hamilton,Mercedes,2,2,1:07.058,231.811,21.219,71
 2021,BWT GROSSER PREIS DER STEIERMARK,Austria,Red Bull Ring,Valtteri Bottas,Mercedes,5,3,1:08.619,226.537,21.752,71
@@ -497,8 +497,8 @@
 2021,BWT GROSSER PREIS DER STEIERMARK,Austria,Red Bull Ring,Mick Schumacher,Haas Ferrari,19,16,1:10.005,222.052,22.400,69
 2021,BWT GROSSER PREIS DER STEIERMARK,Austria,Red Bull Ring,Nicholas Latifi,Williams Mercedes,16,17,1:10.104,221.739,21.953,68
 2021,BWT GROSSER PREIS DER STEIERMARK,Austria,Red Bull Ring,Nikita Mazepin,Haas Ferrari,20,18,1:10.951,219.092,22.759,68
-2021,BWT GROSSER PREIS DER STEIERMARK,Austria,Red Bull Ring,George Russell,Williams Mercedes,10,NC,1:10.499,220.496,37.309,36
-2021,BWT GROSSER PREIS DER STEIERMARK,Austria,Red Bull Ring,Pierre Gasly,AlphaTauri Honda,6,NC,,,,1
+2021,BWT GROSSER PREIS DER STEIERMARK,Austria,Red Bull Ring,George Russell,Williams Mercedes,10,,1:10.499,220.496,37.309,36
+2021,BWT GROSSER PREIS DER STEIERMARK,Austria,Red Bull Ring,Pierre Gasly,AlphaTauri Honda,6,,,,,1
 2021,BWT GROSSER PREIS VON ÖSTERREICH,Austria,Red Bull Ring,Max Verstappen,Red Bull Racing Honda,1,1,1:06.200,234.815,21.090,71
 2021,BWT GROSSER PREIS VON ÖSTERREICH,Austria,Red Bull Ring,Valtteri Bottas,Mercedes,5,2,1:08.374,227.349,21.071,71
 2021,BWT GROSSER PREIS VON ÖSTERREICH,Austria,Red Bull Ring,Lando Norris,McLaren Mercedes,2,3,1:08.471,227.027,26.474,71
@@ -518,7 +518,7 @@
 2021,BWT GROSSER PREIS VON ÖSTERREICH,Austria,Red Bull Ring,Sebastian Vettel,Aston Martin Mercedes,11,17,1:08.420,227.196,20.841,69
 2021,BWT GROSSER PREIS VON ÖSTERREICH,Austria,Red Bull Ring,Mick Schumacher,Haas Ferrari,19,18,1:09.394,224.007,21.798,69
 2021,BWT GROSSER PREIS VON ÖSTERREICH,Austria,Red Bull Ring,Nikita Mazepin,Haas Ferrari,20,19,1:09.757,222.842,22.000,69
-2021,BWT GROSSER PREIS VON ÖSTERREICH,Austria,Red Bull Ring,Esteban Ocon,Alpine Renault,17,NC,,,,0
+2021,BWT GROSSER PREIS VON ÖSTERREICH,Austria,Red Bull Ring,Esteban Ocon,Alpine Renault,17,,,,,0
 2021,PIRELLI BRITISH GRAND PRIX,Great Britan,Silverstone Circuit,Lewis Hamilton,Mercedes,2,1,1:29.699,236.430,40.266,52
 2021,PIRELLI BRITISH GRAND PRIX,Great Britan,Silverstone Circuit,Charles Leclerc,Ferrari,4,2,1:30.569,234.159,28.433,52
 2021,PIRELLI BRITISH GRAND PRIX,Great Britan,Silverstone Circuit,Valtteri Bottas,Mercedes,3,3,1:30.524,234.275,28.209,52
@@ -537,8 +537,8 @@
 2021,PIRELLI BRITISH GRAND PRIX,Great Britan,Silverstone Circuit,Sergio Perez,Red Bull Racing Honda,20,16,1:28.617,239.317,27.848,51
 2021,PIRELLI BRITISH GRAND PRIX,Great Britan,Silverstone Circuit,Nikita Mazepin,Haas Ferrari,19,17,1:32.909,228.262,29.253,51
 2021,PIRELLI BRITISH GRAND PRIX,Great Britan,Silverstone Circuit,Mick Schumacher,Haas Ferrari,18,18,1:32.862,228.377,29.319,51
-2021,PIRELLI BRITISH GRAND PRIX,Great Britan,Silverstone Circuit,Sebastian Vettel,Aston Martin Mercedes,8,NC,1:33.059,227.894,28.145,40
-2021,PIRELLI BRITISH GRAND PRIX,Great Britan,Silverstone Circuit,Max Verstappen,Red Bull Racing Honda,1,NC,1:28.617,239.317,,0
+2021,PIRELLI BRITISH GRAND PRIX,Great Britan,Silverstone Circuit,Sebastian Vettel,Aston Martin Mercedes,8,,1:33.059,227.894,28.145,40
+2021,PIRELLI BRITISH GRAND PRIX,Great Britan,Silverstone Circuit,Max Verstappen,Red Bull Racing Honda,1,,1:28.617,239.317,,0
 2021,ROLEX MAGYAR NAGYDÍJ,Hungary,Hungaroring,Esteban Ocon,Alpine Renault,8,1,1:21.421,193.704,21.642,70
 2021,ROLEX MAGYAR NAGYDÍJ,Hungary,Hungaroring,Sebastian Vettel,Aston Martin Mercedes,10,DQ,1:21.459,193.613,22.703,70
 2021,ROLEX MAGYAR NAGYDÍJ,Hungary,Hungaroring,Lewis Hamilton,Mercedes,1,2,1:18.715,200.363,21.208,70
@@ -553,12 +553,12 @@
 2021,ROLEX MAGYAR NAGYDÍJ,Hungary,Hungaroring,Daniel Ricciardo,McLaren Mercedes,11,11,1:22.802,190.473,21.623,69
 2021,ROLEX MAGYAR NAGYDÍJ,Hungary,Hungaroring,Mick Schumacher,Haas Ferrari,20,12,1:22.711,190.683,22.113,69
 2021,ROLEX MAGYAR NAGYDÍJ,Hungary,Hungaroring,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,14,13,1:22.736,190.625,21.874,69
-2021,ROLEX MAGYAR NAGYDÍJ,Hungary,Hungaroring,Nikita Mazepin,Haas Ferrari,19,NC,,,23.715,3
-2021,ROLEX MAGYAR NAGYDÍJ,Hungary,Hungaroring,Lando Norris,McLaren Mercedes,6,NC,,,38.267,2
-2021,ROLEX MAGYAR NAGYDÍJ,Hungary,Hungaroring,Valtteri Bottas,Mercedes,2,NC,,,,0
-2021,ROLEX MAGYAR NAGYDÍJ,Hungary,Hungaroring,Sergio Perez,Red Bull Racing Honda,4,NC,,,,0
-2021,ROLEX MAGYAR NAGYDÍJ,Hungary,Hungaroring,Charles Leclerc,Ferrari,7,NC,,,,0
-2021,ROLEX MAGYAR NAGYDÍJ,Hungary,Hungaroring,Lance Stroll,Aston Martin Mercedes,12,NC,,,,0
+2021,ROLEX MAGYAR NAGYDÍJ,Hungary,Hungaroring,Nikita Mazepin,Haas Ferrari,19,,,,23.715,3
+2021,ROLEX MAGYAR NAGYDÍJ,Hungary,Hungaroring,Lando Norris,McLaren Mercedes,6,,,,38.267,2
+2021,ROLEX MAGYAR NAGYDÍJ,Hungary,Hungaroring,Valtteri Bottas,Mercedes,2,,,,,0
+2021,ROLEX MAGYAR NAGYDÍJ,Hungary,Hungaroring,Sergio Perez,Red Bull Racing Honda,4,,,,,0
+2021,ROLEX MAGYAR NAGYDÍJ,Hungary,Hungaroring,Charles Leclerc,Ferrari,7,,,,,0
+2021,ROLEX MAGYAR NAGYDÍJ,Hungary,Hungaroring,Lance Stroll,Aston Martin Mercedes,12,,,,,0
 2021,HEINEKEN DUTCH GRAND PRIX,Netherlands,Circuit Zandvoort,Max Verstappen,Red Bull Racing Honda,1,1,1:13.275,209.244,18.578,72
 2021,HEINEKEN DUTCH GRAND PRIX,Netherlands,Circuit Zandvoort,Lewis Hamilton,Mercedes,2,2,1:11.097,215.654,18.868,72
 2021,HEINEKEN DUTCH GRAND PRIX,Netherlands,Circuit Zandvoort,Valtteri Bottas,Mercedes,3,3,1:12.549,211.338,18.873,72
@@ -577,8 +577,8 @@
 2021,HEINEKEN DUTCH GRAND PRIX,Netherlands,Circuit Zandvoort,Nicholas Latifi,Williams Mercedes,,16,1:15.790,202.301,20.646,70
 2021,HEINEKEN DUTCH GRAND PRIX,Netherlands,Circuit Zandvoort,George Russell,Williams Mercedes,11,17,1:15.628,202.734,18.634,69
 2021,HEINEKEN DUTCH GRAND PRIX,Netherlands,Circuit Zandvoort,Mick Schumacher,Haas Ferrari,17,18,1:15.927,201.936,24.578,69
-2021,HEINEKEN DUTCH GRAND PRIX,Netherlands,Circuit Zandvoort,Yuki Tsunoda,AlphaTauri Honda,14,NC,1:15.783,202.319,19.850,48
-2021,HEINEKEN DUTCH GRAND PRIX,Netherlands,Circuit Zandvoort,Nikita Mazepin,Haas Ferrari,18,NC,1:16.066,201.567,19.999,41
+2021,HEINEKEN DUTCH GRAND PRIX,Netherlands,Circuit Zandvoort,Yuki Tsunoda,AlphaTauri Honda,14,,1:15.783,202.319,19.850,48
+2021,HEINEKEN DUTCH GRAND PRIX,Netherlands,Circuit Zandvoort,Nikita Mazepin,Haas Ferrari,18,,1:16.066,201.567,19.999,41
 2021,HEINEKEN GRAN PREMIO D’ITALIA,Italy,Autodromo Nazionale Monza,Daniel Ricciardo,McLaren Mercedes,2,1,1:24.812,245.894,23.812,53
 2021,HEINEKEN GRAN PREMIO D’ITALIA,Italy,Autodromo Nazionale Monza,Lando Norris,McLaren Mercedes,3,2,1:24.971,245.434,24.168,53
 2021,HEINEKEN GRAN PREMIO D’ITALIA,Italy,Autodromo Nazionale Monza,Valtteri Bottas,Mercedes,19,3,1:24.827,245.850,24.308,53
@@ -594,11 +594,11 @@
 2021,HEINEKEN GRAN PREMIO D’ITALIA,Italy,Autodromo Nazionale Monza,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,7,13,1:25.718,243.295,30.551,53
 2021,HEINEKEN GRAN PREMIO D’ITALIA,Italy,Autodromo Nazionale Monza,Robert Kubica,Alfa Romeo Racing Ferrari,17,14,1:25.849,242.924,24.501,53
 2021,HEINEKEN GRAN PREMIO D’ITALIA,Italy,Autodromo Nazionale Monza,Mick Schumacher,Haas Ferrari,18,15,1:26.707,240.520,24.714,53
-2021,HEINEKEN GRAN PREMIO D’ITALIA,Italy,Autodromo Nazionale Monza,Nikita Mazepin,Haas Ferrari,16,NC,1:27.202,239.155,24.806,41
-2021,HEINEKEN GRAN PREMIO D’ITALIA,Italy,Autodromo Nazionale Monza,Lewis Hamilton,Mercedes,4,NC,1:25.870,242.864,25.619,25
-2021,HEINEKEN GRAN PREMIO D’ITALIA,Italy,Autodromo Nazionale Monza,Max Verstappen,Red Bull Racing Honda,1,NC,1:25.173,244.852,32.456,25
-2021,HEINEKEN GRAN PREMIO D’ITALIA,Italy,Autodromo Nazionale Monza,Pierre Gasly,AlphaTauri Honda,20,NC,1:29.005,234.310,,3
-2021,HEINEKEN GRAN PREMIO D’ITALIA,Italy,Autodromo Nazionale Monza,Yuki Tsunoda,AlphaTauri Honda,15,NC,,,,0
+2021,HEINEKEN GRAN PREMIO D’ITALIA,Italy,Autodromo Nazionale Monza,Nikita Mazepin,Haas Ferrari,16,,1:27.202,239.155,24.806,41
+2021,HEINEKEN GRAN PREMIO D’ITALIA,Italy,Autodromo Nazionale Monza,Lewis Hamilton,Mercedes,4,,1:25.870,242.864,25.619,25
+2021,HEINEKEN GRAN PREMIO D’ITALIA,Italy,Autodromo Nazionale Monza,Max Verstappen,Red Bull Racing Honda,1,,1:25.173,244.852,32.456,25
+2021,HEINEKEN GRAN PREMIO D’ITALIA,Italy,Autodromo Nazionale Monza,Pierre Gasly,AlphaTauri Honda,20,,1:29.005,234.310,,3
+2021,HEINEKEN GRAN PREMIO D’ITALIA,Italy,Autodromo Nazionale Monza,Yuki Tsunoda,AlphaTauri Honda,15,,,,,0
 2021,VTB RUSSIAN GRAND PRIX 2021,Russia,Sochi Autodrom,Lewis Hamilton,Mercedes,4,1,1:37.575,215.760,29.878,53
 2021,VTB RUSSIAN GRAND PRIX 2022,Russia,Sochi Autodrom,Max Verstappen,Red Bull Racing Honda,20,2,1:38.396,213.959,29.578,53
 2021,VTB RUSSIAN GRAND PRIX 2023,Russia,Sochi Autodrom,Carlos Sainz,Ferrari,2,3,1:39.294,212.024,30.677,53
@@ -618,7 +618,7 @@
 2021,VTB RUSSIAN GRAND PRIX 2037,Russia,Sochi Autodrom,Yuki Tsunoda,AlphaTauri Honda,12,17,1:39.960,210.612,30.112,52
 2021,VTB RUSSIAN GRAND PRIX 2038,Russia,Sochi Autodrom,Nikita Mazepin,Haas Ferrari,15,18,1:41.713,206.982,30.127,51
 2021,VTB RUSSIAN GRAND PRIX 2039,Russia,Sochi Autodrom,Nicholas Latifi,Williams Mercedes,18,19,1:40.000,210.528,30.056,47
-2021,VTB RUSSIAN GRAND PRIX 2040,Russia,Sochi Autodrom,Mick Schumacher,Haas Ferrari,14,NC,1:40.276,209.948,29.996,32
+2021,VTB RUSSIAN GRAND PRIX 2040,Russia,Sochi Autodrom,Mick Schumacher,Haas Ferrari,14,,1:40.276,209.948,29.996,32
 2021,ROLEX TURKISH GRAND PRIX,Turkiye,Intercity Istanbul Park,Valtteri Bottas,Mercedes,1,1,1:30.432,212.500,22.962,58
 2021,ROLEX TURKISH GRAND PRIX,Turkiye,Intercity Istanbul Park,Max Verstappen,Red Bull Racing Honda,2,2,1:32.759,207.169,22.442,58
 2021,ROLEX TURKISH GRAND PRIX,Turkiye,Intercity Istanbul Park,Sergio Perez,Red Bull Racing Honda,6,3,1:32.459,207.841,22.463,58
@@ -656,9 +656,9 @@
 2021,ARAMCO UNITED STATES GRAND PRIX,United States of America,Circuit of The Americas,Nicholas Latifi,Williams Mercedes,14,15,1:41.818,194.924,23.653,55
 2021,ARAMCO UNITED STATES GRAND PRIX,United States of America,Circuit of The Americas,Mick Schumacher,Haas Ferrari,16,16,1:41.395,195.737,24.247,54
 2021,ARAMCO UNITED STATES GRAND PRIX,United States of America,Circuit of The Americas,Nikita Mazepin,Haas Ferrari,17,17,1:42.886,192.900,24.169,54
-2021,ARAMCO UNITED STATES GRAND PRIX,United States of America,Circuit of The Americas,Fernando Alonso,Alpine Renault,19,NC,1:40.067,198.335,23.314,49
-2021,ARAMCO UNITED STATES GRAND PRIX,United States of America,Circuit of The Americas,Esteban Ocon,Alpine Renault,11,NC,1:42.194,194.207,23.919,40
-2021,ARAMCO UNITED STATES GRAND PRIX,United States of America,Circuit of The Americas,Pierre Gasly,AlphaTauri Honda,8,NC,1:42.015,194.547,23.745,14
+2021,ARAMCO UNITED STATES GRAND PRIX,United States of America,Circuit of The Americas,Fernando Alonso,Alpine Renault,19,,1:40.067,198.335,23.314,49
+2021,ARAMCO UNITED STATES GRAND PRIX,United States of America,Circuit of The Americas,Esteban Ocon,Alpine Renault,11,,1:42.194,194.207,23.919,40
+2021,ARAMCO UNITED STATES GRAND PRIX,United States of America,Circuit of The Americas,Pierre Gasly,AlphaTauri Honda,8,,1:42.015,194.547,23.745,14
 2021,GRAN PREMIO DE LA CIUDAD DE MÉXICO,Mexico,Autódromo Hermanos Rodríguez,Max Verstappen,Red Bull Racing Honda,3,1,1:18.999,196.134,21.908,71
 2021,GRAN PREMIO DE LA CIUDAD DE MÉXICO,Mexico,Autódromo Hermanos Rodríguez,Lewis Hamilton,Mercedes,2,2,1:19.820,194.116,22.373,71
 2021,GRAN PREMIO DE LA CIUDAD DE MÉXICO,Mexico,Autódromo Hermanos Rodríguez,Sergio Perez,Red Bull Racing Honda,4,3,1:19.468,194.976,22.114,71
@@ -677,8 +677,8 @@
 2021,GRAN PREMIO DE LA CIUDAD DE MÉXICO,Mexico,Autódromo Hermanos Rodríguez,George Russell,Williams Mercedes,16,16,1:22.016,188.919,21.984,69
 2021,GRAN PREMIO DE LA CIUDAD DE MÉXICO,Mexico,Autódromo Hermanos Rodríguez,Nicholas Latifi,Williams Mercedes,13,17,1:21.546,190.008,22.739,69
 2021,GRAN PREMIO DE LA CIUDAD DE MÉXICO,Mexico,Autódromo Hermanos Rodríguez,Nikita Mazepin,Haas Ferrari,15,18,1:21.402,190.344,23.637,68
-2021,GRAN PREMIO DE LA CIUDAD DE MÉXICO,Mexico,Autódromo Hermanos Rodríguez,Mick Schumacher,Haas Ferrari,14,NC,,,,0
-2021,GRAN PREMIO DE LA CIUDAD DE MÉXICO,Mexico,Autódromo Hermanos Rodríguez,Yuki Tsunoda,AlphaTauri Honda,17,NC,,,,0
+2021,GRAN PREMIO DE LA CIUDAD DE MÉXICO,Mexico,Autódromo Hermanos Rodríguez,Mick Schumacher,Haas Ferrari,14,,,,,0
+2021,GRAN PREMIO DE LA CIUDAD DE MÉXICO,Mexico,Autódromo Hermanos Rodríguez,Yuki Tsunoda,AlphaTauri Honda,17,,,,,0
 2021,HEINEKEN GRANDE PRÊMIO DE SÃO PAULO,Brazil,Autódromo José Carlos Pace,Lewis Hamilton,Mercedes,10,1,1:11.982,215.503,17.910,71
 2021,HEINEKEN GRANDE PRÊMIO DE SÃO PAULO,Brazil,Autódromo José Carlos Pace,Max Verstappen,Red Bull Racing Honda,2,2,1:12.486,214.005,17.807,71
 2021,HEINEKEN GRANDE PRÊMIO DE SÃO PAULO,Brazil,Autódromo José Carlos Pace,Valtteri Bottas,Mercedes,1,3,1:12.526,213.887,17.837,71
@@ -697,8 +697,8 @@
 2021,HEINEKEN GRANDE PRÊMIO DE SÃO PAULO,Brazil,Autódromo José Carlos Pace,Nicholas Latifi,Williams Mercedes,16,16,1:14.616,207.896,18.153,70
 2021,HEINEKEN GRANDE PRÊMIO DE SÃO PAULO,Brazil,Autódromo José Carlos Pace,Nikita Mazepin,Haas Ferrari,19,17,1:14.954,206.958,17.995,69
 2021,HEINEKEN GRANDE PRÊMIO DE SÃO PAULO,Brazil,Autódromo José Carlos Pace,Mick Schumacher,Haas Ferrari,18,18,1:13.793,210.215,17.861,69
-2021,HEINEKEN GRANDE PRÊMIO DE SÃO PAULO,Brazil,Autódromo José Carlos Pace,Daniel Ricciardo,McLaren Mercedes,11,NC,1:14.443,208.379,18.347,49
-2021,HEINEKEN GRANDE PRÊMIO DE SÃO PAULO,Brazil,Autódromo José Carlos Pace,Lance Stroll,Aston Martin Mercedes,14,NC,1:15.344,205.887,17.935,47
+2021,HEINEKEN GRANDE PRÊMIO DE SÃO PAULO,Brazil,Autódromo José Carlos Pace,Daniel Ricciardo,McLaren Mercedes,11,,1:14.443,208.379,18.347,49
+2021,HEINEKEN GRANDE PRÊMIO DE SÃO PAULO,Brazil,Autódromo José Carlos Pace,Lance Stroll,Aston Martin Mercedes,14,,1:15.344,205.887,17.935,47
 2021,OOREDOO QATAR GRAND PRIX,Qatar,Lusail International Circuit,Lewis Hamilton,Mercedes,1,1,1:25.084,227.633,25.235,57
 2021,OOREDOO QATAR GRAND PRIX,Qatar,Lusail International Circuit,Max Verstappen,Red Bull Racing Honda,7,2,1:23.196,232.799,25.175,57
 2021,OOREDOO QATAR GRAND PRIX,Qatar,Lusail International Circuit,Fernando Alonso,Alpine Renault,3,3,1:26.682,223.437,25.991,57
@@ -717,8 +717,8 @@
 2021,OOREDOO QATAR GRAND PRIX,Qatar,Lusail International Circuit,Mick Schumacher,Haas Ferrari,19,16,1:28.412,219.065,25.881,56
 2021,OOREDOO QATAR GRAND PRIX,Qatar,Lusail International Circuit,George Russell,Williams Mercedes,15,17,1:25.768,225.818,26.121,55
 2021,OOREDOO QATAR GRAND PRIX,Qatar,Lusail International Circuit,Nikita Mazepin,Haas Ferrari,20,18,1:27.340,221.754,26.515,55
-2021,OOREDOO QATAR GRAND PRIX,Qatar,Lusail International Circuit,Nicholas Latifi,Williams Mercedes,17,NC,1:28.732,218.275,25.811,50
-2021,OOREDOO QATAR GRAND PRIX,Qatar,Lusail International Circuit,Valtteri Bottas,Mercedes,6,NC,1:27.246,221.992,36.341,48
+2021,OOREDOO QATAR GRAND PRIX,Qatar,Lusail International Circuit,Nicholas Latifi,Williams Mercedes,17,,1:28.732,218.275,25.811,50
+2021,OOREDOO QATAR GRAND PRIX,Qatar,Lusail International Circuit,Valtteri Bottas,Mercedes,6,,1:27.246,221.992,36.341,48
 2021,STC SAUDI ARABIAN GRAND PRIX,Saudi Arabia,Jeddah Corniche Circuit,Lewis Hamilton,Mercedes,1,1,1:30.734,244.962,20.580,50
 2021,STC SAUDI ARABIAN GRAND PRIX,Saudi Arabia,Jeddah Corniche Circuit,Max Verstappen,Red Bull Racing Honda,3,2,1:31.488,242.943,,50
 2021,STC SAUDI ARABIAN GRAND PRIX,Saudi Arabia,Jeddah Corniche Circuit,Valtteri Bottas,Mercedes,2,3,1:31.408,243.155,21.668,50
@@ -734,11 +734,11 @@
 2021,STC SAUDI ARABIAN GRAND PRIX,Saudi Arabia,Jeddah Corniche Circuit,Fernando Alonso,Alpine Renault,13,13,1:31.633,242.558,20.405,49
 2021,STC SAUDI ARABIAN GRAND PRIX,Saudi Arabia,Jeddah Corniche Circuit,Yuki Tsunoda,AlphaTauri Honda,8,14,1:32.506,240.269,27.874,49
 2021,STC SAUDI ARABIAN GRAND PRIX,Saudi Arabia,Jeddah Corniche Circuit,Kimi Räikkönen,Alfa Romeo Racing Ferrari,12,15,1:32.778,239.565,34.489,49
-2021,STC SAUDI ARABIAN GRAND PRIX,Saudi Arabia,Jeddah Corniche Circuit,Sebastian Vettel,Aston Martin Mercedes,17,NC,1:34.030,236.375,,44
-2021,STC SAUDI ARABIAN GRAND PRIX,Saudi Arabia,Jeddah Corniche Circuit,Sergio Perez,Red Bull Racing Honda,5,NC,1:34.138,236.104,20.710,14
-2021,STC SAUDI ARABIAN GRAND PRIX,Saudi Arabia,Jeddah Corniche Circuit,Nikita Mazepin,Haas Ferrari,20,NC,1:37.043,229.036,,14
-2021,STC SAUDI ARABIAN GRAND PRIX,Saudi Arabia,Jeddah Corniche Circuit,George Russell,Williams Mercedes,14,NC,1:36.130,231.211,20.519,14
-2021,STC SAUDI ARABIAN GRAND PRIX,Saudi Arabia,Jeddah Corniche Circuit,Mick Schumacher,Haas Ferrari,19,NC,1:36.043,231.421,25.881,8
+2021,STC SAUDI ARABIAN GRAND PRIX,Saudi Arabia,Jeddah Corniche Circuit,Sebastian Vettel,Aston Martin Mercedes,17,,1:34.030,236.375,,44
+2021,STC SAUDI ARABIAN GRAND PRIX,Saudi Arabia,Jeddah Corniche Circuit,Sergio Perez,Red Bull Racing Honda,5,,1:34.138,236.104,20.710,14
+2021,STC SAUDI ARABIAN GRAND PRIX,Saudi Arabia,Jeddah Corniche Circuit,Nikita Mazepin,Haas Ferrari,20,,1:37.043,229.036,,14
+2021,STC SAUDI ARABIAN GRAND PRIX,Saudi Arabia,Jeddah Corniche Circuit,George Russell,Williams Mercedes,14,,1:36.130,231.211,20.519,14
+2021,STC SAUDI ARABIAN GRAND PRIX,Saudi Arabia,Jeddah Corniche Circuit,Mick Schumacher,Haas Ferrari,19,,1:36.043,231.421,25.881,8
 2021,ETIHAD AIRWAYS ABU DHABI GRAND PRIX,UAE,Yas Marina Circuit,Max Verstappen,Red Bull Racing Honda,1,1,1:26.103,220.800,21.152,58
 2021,ETIHAD AIRWAYS ABU DHABI GRAND PRIX,UAE,Yas Marina Circuit,Lewis Hamilton,Mercedes,2,2,1:26.615,219.495,21.595,58
 2021,ETIHAD AIRWAYS ABU DHABI GRAND PRIX,UAE,Yas Marina Circuit,Carlos Sainz,Ferrari,5,3,1:27.618,216.982,22.213,58
@@ -754,7 +754,7 @@
 2021,ETIHAD AIRWAYS ABU DHABI GRAND PRIX,UAE,Yas Marina Circuit,Lance Stroll,Aston Martin Mercedes,13,13,1:28.567,214.657,22.288,57
 2021,ETIHAD AIRWAYS ABU DHABI GRAND PRIX,UAE,Yas Marina Circuit,Mick Schumacher,Haas Ferrari,19,14,1:29.457,212.522,22.070,57
 2021,ETIHAD AIRWAYS ABU DHABI GRAND PRIX,UAE,Yas Marina Circuit,Sergio Perez,Red Bull Racing Honda,4,15,1:26.419,219.993,21.385,55
-2021,ETIHAD AIRWAYS ABU DHABI GRAND PRIX,UAE,Yas Marina Circuit,Nicholas Latifi,Williams Mercedes,16,NC,1:29.293,212.912,21.241,50
-2021,ETIHAD AIRWAYS ABU DHABI GRAND PRIX,UAE,Yas Marina Circuit,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,14,NC,1:29.442,212.557,22.283,33
-2021,ETIHAD AIRWAYS ABU DHABI GRAND PRIX,UAE,Yas Marina Circuit,George Russell,Williams Mercedes,17,NC,1:30.647,209.732,NV,26
-2021,ETIHAD AIRWAYS ABU DHABI GRAND PRIX,UAE,Yas Marina Circuit,Kimi Räikkönen,Alfa Romeo Racing Ferrari,18,NC,1:29.698,211.951,22.338,25
+2021,ETIHAD AIRWAYS ABU DHABI GRAND PRIX,UAE,Yas Marina Circuit,Nicholas Latifi,Williams Mercedes,16,,1:29.293,212.912,21.241,50
+2021,ETIHAD AIRWAYS ABU DHABI GRAND PRIX,UAE,Yas Marina Circuit,Antonio Giovinazzi,Alfa Romeo Racing Ferrari,14,,1:29.442,212.557,22.283,33
+2021,ETIHAD AIRWAYS ABU DHABI GRAND PRIX,UAE,Yas Marina Circuit,George Russell,Williams Mercedes,17,,1:30.647,209.732,NV,26
+2021,ETIHAD AIRWAYS ABU DHABI GRAND PRIX,UAE,Yas Marina Circuit,Kimi Räikkönen,Alfa Romeo Racing Ferrari,18,,1:29.698,211.951,22.338,25
