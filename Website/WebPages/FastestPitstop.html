@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Predict Fastest Pitstop Times</title>
+</head>
+<body>
+    <header>
+        <h1>F1 Predictions</h1>
+        <nav> <!--navigation-->
+            <ol>
+                <li></li>
+                <li></li>
+                <li></li>
+            </ol>
+        </nav>
+    </header>
+
+    <div>
+        <h1>Predict Fastest Pitstop Time</h1>
+        <form action="">
+            <label for="circuit">Circuit</label>
+            <select name="circuit" class="circuit">
+                <!-- fill in the circuits from active circuit list -->
+            </select>
+            <button id="btnFastesPitstop" type="button">Predict</button>
+            <div class="displayContainer">
+                <p class="display" id="displayFastestPitstop"></p>
+            </div>
+
+        </form>
+    </div>
+
+    <div>
+        <h1>What will your favourite dirver fastest pitstop time be?</h1>
+        <form action="">
+            <label for="driver">Driver</label>
+            <select name="driver" class="driver">
+                <!-- fill in the drivers from active driver list -->
+            </select>
+            <label for="circuit">Circuit</label>
+            <select name="circuit" class="circuit">
+                <!-- fill in the circuits from active circuit list -->
+            </select>
+            <div id="displaySpecificFastestPitstop"></div>
+
+            <button id="btnSpecificFastesPitstop" type="button">Predict</button>
+
+        </form>
+    </div>
+
+    <footer>
+        
+    </footer>
+</body>
+</html>
