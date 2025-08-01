@@ -1,1 +1,44 @@
 /* styling for the index/ home page */
+.container {
+    margin-top: 80px;
+}
+
+.links {
+    display: flex;
+    flex-direction: column; /* stack vertically */
+    align-items: center;
+    gap: 2rem;
+    margin-bottom: 2rem;
+}
+
+.links a {
+    background-color: #d4d4d4;
+    color: #1c1c1c;
+    padding: 1rem 2rem;
+    border-radius: 8px;
+    text-decoration: none;
+    font-size: 1rem;
+    font-weight: bold;
+    width: 250px;
+    text-align: center;
+    transition: background 0.3s, transform 0.2s;
+}
+
+.links a:hover {
+    background-color: #ff1e00;
+    color: white;
+    transform: scale(1.05);
+}
+
+#about {
+    max-width: 800px;
+    margin: auto;
+    text-align: left;
+    line-height: 1.6;
+    padding: 1rem;
+}
+
+#about a {
+    color: #ff1e00;
+    text-decoration: underline;
+}
