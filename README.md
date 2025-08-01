@@ -1,6 +1,6 @@
 # F1 ML Prediction Website
 
-I just started with this project so nothing really has been done yet
+I just started with this project so it still has a long way to go
 
 ## Project Overview
 This project is a web application that uses machine learning models to predict Formula 1 race outcomes. Users can input driver, team, and circuit to get predictions such as chances of winning, setting the fastest lap, and pitstop performance.
@@ -9,13 +9,9 @@ This project is a web application that uses machine learning models to predict F
 - Predict race winner probabilities
 - Predict fastest lap chances and lap times
 - Predict pitstop performance and fastest pitstop chances
-- Interactive web interface for user inputs
 
 ## Dataset
-The models are trained on historical F1 race data from the past 10-20 years, including driver stats, team information, race results, and lap times.
-
-## Getting Started
-Instructions for setup, installation, and running the project will be added soon.
+The models are trained on historical F1 race data from the past 5 years, including driver stats, team information, race results, and lap times.
 
 ## Technologies Used
 - Python (for data analysis and ML modeling)
