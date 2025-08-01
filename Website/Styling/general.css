@@ -1,1 +1,125 @@
 /* this is the styling for reused elements such as header, buttons, displays, footers */
+ body {
+    margin: 0;
+    font-family: 'Orbitron', sans-serif;
+    background-color: #1c1c1c;
+    color: #f0f0f0;
+ }
+/* header*/
+header {
+    background-color: #ff1e00;
+    color: white;
+    padding: 5px 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    border-bottom: 4px solid #fff;
+}
+
+header h1{
+    color:white;
+}
+
+nav ol {
+    display: flex;
+    gap: 1.5rem;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ol li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+nav ol li a:hover {
+    color: #1c1c1c;
+    background-color: #fff;
+    padding: 5px 10px;
+    border-radius: 4px;
+}
+/* form */
+h1 {
+    text-align: center;
+    color: #ff1e00;
+    margin-top: 2rem;
+}
+
+/* Form styling */
+form {
+    background-color: #2c2c2c;
+    max-width: 600px;
+    margin: 2rem auto;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #000;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+/* Labels */
+label {
+    font-weight: bold;
+    color: #f0f0f0;
+}
+
+/* Dropdowns (select elements) */
+select {
+    padding: 0.5rem;
+    font-size: 1rem;
+    border-radius: 5px;
+    border: none;
+    background-color: #e0e0e0;
+}
+
+/* Predict buttons */
+button[type="button"] {
+    padding: 0.75rem;
+    background-color: #ff1e00;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+button[type="button"]:hover {
+    background-color: #d10000;
+}
+
+/* Prediction result displays */
+#displayFastestLap, #displaySpecificFastestLap, #displaySpecificRaceWinner{
+    background-color: #1c1c1c;
+    color: #f0f0f0;
+    padding: 1rem;
+    border: 1px solid #444;
+    border-radius: 6px;
+    min-height: 40px;
+}
+
+/* footer */
+footer {
+    background-color: #2c2c2c;
+    color: #d4d4d4;
+    text-align: center;
+    padding: 2rem;
+    border-top: 4px solid #ff1e00;
+    margin-top: 3rem;
+}
+
+footer a {
+    color: #ff1e00;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
