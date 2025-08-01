@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Predict Fastest Lap Time</title>
+</head>
+<body>
+     <header>
+        <h1>F1 Predictions</h1>
+        <nav> <!--navigation-->
+            <ol>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#footer">Contact</a></li>
+            </ol>
+        </nav>
+    </header>
+    <div>
+        <h1>Predict Fastest Lap Time</h1>
+        <form action="">
+            <label for="circuit">Choose a circuit</label>
+                <select name="circuit" class="circuits">
+                    <option value="">Loading...</option>
+                </select>
+            <button id="btnFastesLap" type="button">Predict</button>
+            <div id="displayFastestLap">
+
+            </div>
+
+        </form>
+    </div>
+
+    <div>
+        <h1>What will your favourite dirver fastest lap time be?</h1>
+        <form action="">
+            <label for="driver">Choose a driver</label>
+                <select name="driver" class="drivers">
+                    <option value="">Loading...</option>
+                </select>
+            <label for="circuitsDriver">Choose a circuit</label>
+                <select name="circuitsDriver" class="circuits">
+                    <option value="">Loading...</option>
+                </select>
+            <div id="displaySpecificFastestLap">
+
+            </div>
+
+            <button id="btnSpecificFastesLap" type="button">Predict</button>
+
+        </form>
+    </div>
+    
+    <footer>
+        <h1>Contact me:</h1>
+        <p>If there are any bugs or if you have any reccomendations for improvements please feel free to contact me</p>
+        <a href="mailto:tarina.snyman@gmail.com">Email</a>
+    </footer>
+    
+<!-- css and scripts -->
+    <script src="../Scripts/index.js"></script>
+    <link rel="stylesheet" href="../Styling/general.css">
+</body>
+</html>
